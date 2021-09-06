@@ -1,0 +1,2514 @@
+2021-09-08 09:12:44 +0700 [INFO]:		Init driver
+2021-09-08 10:15:48 +0700 [INFO]:		Init driver
+2021-09-08 10:16:11 +0700 [INFO]:		Init driver
+2021-09-08 10:17:06 +0700 [INFO]:		Init driver
+2021-09-08 10:20:27 +0700 [INFO]:		Init driver
+2021-09-08 10:20:54 +0700 [INFO]:		Init driver
+2021-09-08 10:21:02 +0700 [INFO]:		Init driver
+2021-09-08 10:21:23 +0700 [INFO]:		Init driver
+2021-09-08 10:24:21 +0700 [INFO]:		Init driver
+2021-09-08 10:25:09 +0700 [INFO]:		Init driver
+2021-09-08 10:25:18 +0700 [INFO]:		Init driver
+2021-09-08 10:29:03 +0700 [INFO]:		Init driver
+2021-09-08 10:37:51 +0700 [INFO]:		Init driver
+2021-09-08 10:38:13 +0700 [INFO]:		Init driver
+2021-09-08 10:40:45 +0700 [INFO]:		Init driver
+2021-09-08 10:51:16 +0700 [INFO]:		Init driver
+2021-09-08 10:58:55 +0700 [INFO]:		Init driver
+2021-09-08 11:00:12 +0700 [INFO]:		Init driver
+2021-09-08 11:01:48 +0700 [INFO]:		Init driver
+2021-09-08 11:01:54 +0700 [INFO]:		Init driver
+2021-09-08 11:02:07 +0700 [INFO]:		Init driver
+2021-09-08 11:02:15 +0700 [INFO]:		Init driver
+2021-09-08 11:47:12 +0700 [INFO]:		Init driver
+2021-09-08 11:53:01 +0700 [INFO]:		Init driver
+2021-09-08 12:14:42 +0700 [INFO]:		Init driver
+2021-09-08 12:15:01 +0700 [INFO]:		Init driver
+2021-09-08 12:16:28 +0700 [INFO]:		Init driver
+2021-09-08 12:16:52 +0700 [INFO]:		Init driver
+2021-09-08 12:18:51 +0700 [INFO]:		Init driver
+2021-09-08 15:17:38 +0700 [INFO]:		Init driver
+2021-09-08 15:18:58 +0700 [INFO]:		Init driver
+2021-09-08 15:19:09 +0700 [INFO]:		Init driver
+2021-09-08 15:21:03 +0700 [INFO]:		Init driver
+2021-09-08 15:21:19 +0700 [INFO]:		Init driver
+2021-09-08 15:29:07 +0700 [INFO]:		Init driver
+2021-09-08 15:31:19 +0700 [INFO]:		Init driver
+2021-09-08 15:32:30 +0700 [INFO]:		Init driver
+2021-09-08 15:32:58 +0700 [INFO]:		Init driver
+2021-09-08 15:33:24 +0700 [INFO]:		Init driver
+2021-09-08 15:33:55 +0700 [INFO]:		Init driver
+2021-09-08 15:35:54 +0700 [INFO]:		Init driver
+2021-09-08 15:37:58 +0700 [INFO]:		Init driver
+2021-09-08 15:38:39 +0700 [INFO]:		Init driver
+2021-09-09 08:57:36 +0700 [INFO]:		Init driver
+2021-09-09 08:57:58 +0700 [INFO]:		Init driver
+2021-09-09 08:58:12 +0700 [INFO]:		Init driver
+2021-09-09 08:58:37 +0700 [INFO]:		Init driver
+2021-09-09 08:58:49 +0700 [INFO]:		Init driver
+2021-09-09 09:00:30 +0700 [INFO]:		Init driver
+2021-09-09 09:06:26 +0700 [INFO]:		Init driver
+2021-09-09 09:06:54 +0700 [INFO]:		Init driver
+2021-09-09 09:13:31 +0700 [INFO]:		Init driver
+2021-09-09 09:13:52 +0700 [INFO]:		Init driver
+2021-09-09 09:14:11 +0700 [INFO]:		Init driver
+2021-09-09 09:27:18 +0700 [INFO]:		Init driver
+2021-09-09 09:30:54 +0700 [INFO]:		Init driver
+2021-09-09 09:33:43 +0700 [INFO]:		Init driver
+2021-09-09 10:03:32 +0700 [INFO]:		Init driver
+2021-09-09 10:03:50 +0700 [INFO]:		Init driver
+2021-09-09 10:21:03 +0700 [INFO]:		Init driver
+2021-09-09 10:22:19 +0700 [INFO]:		Init driver
+2021-09-09 10:23:12 +0700 [INFO]:		Init driver
+2021-09-09 10:23:13 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 10:23:22 +0700 [INFO]:		Craw data success
+2021-09-09 10:23:40 +0700 [INFO]:		Init driver
+2021-09-09 10:23:41 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 10:23:50 +0700 [INFO]:		Craw data success
+2021-09-09 10:24:29 +0700 [INFO]:		Init driver
+2021-09-09 10:24:31 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 10:24:40 +0700 [INFO]:		Craw data success
+2021-09-09 10:45:05 +0700 [INFO]:		Init driver
+2021-09-09 10:45:07 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 10:46:51 +0700 [INFO]:		Init driver
+2021-09-09 10:46:52 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 10:47:30 +0700 [INFO]:		Init driver
+2021-09-09 10:47:31 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 10:48:47 +0700 [INFO]:		Init driver
+2021-09-09 10:48:49 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 10:58:21 +0700 [INFO]:		Init driver
+2021-09-09 10:58:22 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 11:50:02 +0700 [INFO]:		Init driver
+2021-09-09 11:50:03 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 11:52:28 +0700 [INFO]:		Init driver
+2021-09-09 11:52:30 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 11:54:17 +0700 [INFO]:		Init driver
+2021-09-09 11:54:18 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 11:55:49 +0700 [INFO]:		Init driver
+2021-09-09 11:55:50 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 11:58:26 +0700 [INFO]:		Init driver
+2021-09-09 11:58:27 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 11:59:45 +0700 [INFO]:		Craw data success
+2021-09-09 12:01:57 +0700 [INFO]:		Init driver
+2021-09-09 12:01:58 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 12:03:05 +0700 [INFO]:		Craw data success
+2021-09-09 12:09:33 +0700 [INFO]:		Init driver
+2021-09-09 12:09:34 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 12:10:42 +0700 [INFO]:		Craw data success
+2021-09-09 12:12:01 +0700 [INFO]:		Init driver
+2021-09-09 12:12:03 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 12:21:48 +0700 [INFO]:		Init driver
+2021-09-09 12:21:49 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 12:22:21 +0700 [INFO]:		Init driver
+2021-09-09 12:22:23 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 12:23:05 +0700 [INFO]:		Init driver
+2021-09-09 12:23:07 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 12:26:50 +0700 [INFO]:		Init driver
+2021-09-09 12:26:51 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 12:30:07 +0700 [INFO]:		Init driver
+2021-09-09 12:30:08 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 12:32:48 +0700 [INFO]:		Init driver
+2021-09-09 12:32:50 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 12:35:30 +0700 [INFO]:		Init driver
+2021-09-09 12:35:32 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 12:36:39 +0700 [INFO]:		Craw data success
+2021-09-09 12:37:21 +0700 [INFO]:		Init driver
+2021-09-09 12:37:22 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 12:38:31 +0700 [INFO]:		Craw data success
+2021-09-09 12:43:04 +0700 [INFO]:		Init driver
+2021-09-09 12:43:05 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 12:45:24 +0700 [INFO]:		Init driver
+2021-09-09 12:45:26 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 12:47:35 +0700 [INFO]:		Init driver
+2021-09-09 12:47:36 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 14:19:29 +0700 [INFO]:		Init driver
+2021-09-09 14:19:32 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 14:21:17 +0700 [INFO]:		Init driver
+2021-09-09 14:21:19 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 16:24:41 +0700 [INFO]:		Init driver
+2021-09-09 16:25:40 +0700 [INFO]:		Init driver
+2021-09-09 16:25:42 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 16:32:06 +0700 [INFO]:		Init driver
+2021-09-09 16:32:08 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 16:32:29 +0700 [INFO]:		Init driver
+2021-09-09 16:32:31 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 16:37:43 +0700 [INFO]:		Init driver
+2021-09-09 16:37:45 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 16:47:30 +0700 [INFO]:		Init driver
+2021-09-09 16:47:31 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 16:49:35 +0700 [INFO]:		Init driver
+2021-09-09 16:49:36 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 16:58:18 +0700 [INFO]:		Init driver
+2021-09-09 16:58:19 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 17:02:33 +0700 [INFO]:		Init driver
+2021-09-09 17:02:34 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 17:05:39 +0700 [INFO]:		Init driver
+2021-09-09 17:05:40 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 17:06:22 +0700 [INFO]:		Init driver
+2021-09-09 17:06:23 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 17:12:36 +0700 [INFO]:		Init driver
+2021-09-09 17:12:38 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 17:13:44 +0700 [INFO]:		Init driver
+2021-09-09 17:13:46 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 17:17:22 +0700 [INFO]:		Init driver
+2021-09-09 17:17:23 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 17:18:33 +0700 [INFO]:		Craw data success
+2021-09-09 17:19:46 +0700 [INFO]:		Init driver
+2021-09-09 17:19:48 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 17:20:58 +0700 [INFO]:		Craw data success
+2021-09-09 17:27:56 +0700 [INFO]:		Init driver
+2021-09-09 17:27:57 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 20:31:04 +0700 [INFO]:		Init driver
+2021-09-09 20:31:08 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 20:32:40 +0700 [INFO]:		Craw data success
+2021-09-09 20:35:52 +0700 [INFO]:		Init driver
+2021-09-09 20:35:53 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 21:06:12 +0700 [INFO]:		Init driver
+2021-09-09 21:06:13 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 21:07:34 +0700 [INFO]:		Craw data page 1 success
+2021-09-09 21:07:34 +0700 [INFO]:		Craw data success
+2021-09-09 21:09:08 +0700 [INFO]:		Init driver
+2021-09-09 21:09:10 +0700 [INFO]:		Start craw data in page 2
+2021-09-09 21:10:35 +0700 [INFO]:		Craw data page 2 success
+2021-09-09 21:10:35 +0700 [INFO]:		Start craw data in page 3
+2021-09-09 21:12:01 +0700 [INFO]:		Craw data page 3 success
+2021-09-09 21:12:01 +0700 [INFO]:		Start craw data in page 4
+2021-09-09 21:13:17 +0700 [INFO]:		Craw data page 4 success
+2021-09-09 21:13:17 +0700 [INFO]:		Start craw data in page 5
+2021-09-09 21:14:38 +0700 [INFO]:		Craw data page 5 success
+2021-09-09 21:14:38 +0700 [INFO]:		Start craw data in page 6
+2021-09-09 21:16:05 +0700 [INFO]:		Craw data page 6 success
+2021-09-09 21:16:05 +0700 [INFO]:		Start craw data in page 7
+2021-09-09 21:17:25 +0700 [INFO]:		Craw data page 7 success
+2021-09-09 21:17:25 +0700 [INFO]:		Start craw data in page 8
+2021-09-09 21:19:08 +0700 [INFO]:		Craw data page 8 success
+2021-09-09 21:19:08 +0700 [INFO]:		Start craw data in page 9
+2021-09-09 21:20:41 +0700 [INFO]:		Craw data page 9 success
+2021-09-09 21:20:41 +0700 [INFO]:		Start craw data in page 10
+2021-09-09 21:21:56 +0700 [INFO]:		Craw data page 10 success
+2021-09-09 21:21:56 +0700 [INFO]:		Craw data success
+2021-09-09 22:17:51 +0700 [INFO]:		Init driver
+2021-09-09 22:17:53 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-09 22:17:53 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-09 22:17:53 +0700 [INFO]:		Craw data https://imitsu.jp/ct-hp-design success
+2021-09-09 22:17:53 +0700 [INFO]:		Craw data success
+2021-09-09 22:22:20 +0700 [INFO]:		Init driver
+2021-09-09 22:23:50 +0700 [INFO]:		Init driver
+2021-09-09 22:23:51 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 22:24:50 +0700 [INFO]:		Init driver
+2021-09-09 22:24:51 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-09 22:24:51 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 22:25:38 +0700 [INFO]:		Init driver
+2021-09-09 22:25:39 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-09 22:25:39 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 22:26:55 +0700 [INFO]:		Craw data page 1 success
+2021-09-09 22:26:55 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-09 22:26:55 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-09 22:26:55 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 22:28:23 +0700 [INFO]:		Craw data page 1 success
+2021-09-09 22:28:23 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-09 22:28:23 +0700 [INFO]:		Start craw data in page 2
+2021-09-09 22:29:34 +0700 [INFO]:		Craw data page 2 success
+2021-09-09 22:29:34 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-09 22:29:34 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-09 22:29:34 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 22:31:07 +0700 [INFO]:		Craw data page 1 success
+2021-09-09 22:31:07 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-09 22:31:07 +0700 [INFO]:		Start craw data in page 2
+2021-09-09 22:32:23 +0700 [INFO]:		Craw data page 2 success
+2021-09-09 22:32:23 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-09 22:32:23 +0700 [INFO]:		Start craw data in page 3
+2021-09-09 22:33:39 +0700 [INFO]:		Craw data page 3 success
+2021-09-09 22:33:39 +0700 [INFO]:		Craw data https://imitsu.jp/ct-hp-design success
+2021-09-09 22:33:39 +0700 [INFO]:		Craw data success
+2021-09-09 22:34:54 +0700 [INFO]:		Init driver
+2021-09-09 22:34:55 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-09 22:34:55 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 22:35:21 +0700 [INFO]:		Init driver
+2021-09-09 22:35:23 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-09 22:35:23 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 22:36:35 +0700 [INFO]:		Craw data page 1 success
+2021-09-09 22:36:35 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-09 22:36:35 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-09 22:36:35 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 22:37:07 +0700 [INFO]:		Init driver
+2021-09-09 22:37:08 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-09 22:37:08 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 23:00:55 +0700 [INFO]:		Init driver
+2021-09-09 23:00:56 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-09 23:00:56 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 23:01:41 +0700 [INFO]:		Init driver
+2021-09-09 23:01:42 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-09 23:01:42 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-09 23:01:42 +0700 [INFO]:		Start craw data in page 2
+2021-09-09 23:08:03 +0700 [INFO]:		Init driver
+2021-09-09 23:08:05 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-09 23:08:05 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 23:09:40 +0700 [INFO]:		Init driver
+2021-09-09 23:09:41 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-09 23:09:41 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 23:11:01 +0700 [INFO]:		Init driver
+2021-09-09 23:11:03 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-09 23:11:03 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 23:12:00 +0700 [INFO]:		Init driver
+2021-09-09 23:12:01 +0700 [INFO]:		ct-hp-design
+2021-09-09 23:12:01 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-09 23:12:01 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 23:19:49 +0700 [INFO]:		Init driver
+2021-09-09 23:20:17 +0700 [INFO]:		Init driver
+2021-09-09 23:20:18 +0700 [INFO]:		startPage 3
+2021-09-09 23:20:18 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-09 23:20:18 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-09 23:20:18 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-09 23:20:18 +0700 [INFO]:		Start craw data in page 3
+2021-09-09 23:38:12 +0700 [INFO]:		Init driver
+2021-09-09 23:38:13 +0700 [INFO]:		startPage 3
+2021-09-09 23:38:13 +0700 [INFO]:		Craw data https://imitsu.jp/ct-hp-design success
+2021-09-09 23:38:13 +0700 [INFO]:		Craw data https://imitsu.jp/ct-hp-design success
+2021-09-09 23:38:13 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-09 23:38:13 +0700 [INFO]:		Start craw data in page 3
+2021-09-09 23:39:02 +0700 [INFO]:		Init driver
+2021-09-09 23:39:03 +0700 [INFO]:		startPage 2
+2021-09-09 23:39:03 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-09 23:39:03 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-09 23:39:03 +0700 [INFO]:		Start craw data in page 2
+2021-09-09 23:43:20 +0700 [INFO]:		Init driver
+2021-09-09 23:43:21 +0700 [INFO]:		startPage 1
+2021-09-09 23:43:21 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-09 23:43:21 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 23:44:35 +0700 [INFO]:		Craw data page 1 success
+2021-09-09 23:44:35 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-09 23:44:35 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-09 23:44:35 +0700 [INFO]:		Start craw data in page 1
+2021-09-09 23:46:05 +0700 [INFO]:		Craw data page 1 success
+2021-09-09 23:46:05 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-09 23:46:05 +0700 [INFO]:		Start craw data in page 2
+2021-09-09 23:46:30 +0700 [INFO]:		Init driver
+2021-09-09 23:46:31 +0700 [INFO]:		startPage 2
+2021-09-09 23:46:31 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-09 23:46:31 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-09 23:46:31 +0700 [INFO]:		Start craw data in page 2
+2021-09-09 23:47:39 +0700 [INFO]:		Craw data page 2 success
+2021-09-09 23:47:39 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-09 23:47:39 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-09 23:47:39 +0700 [INFO]:		Start craw data in page 2
+2021-09-09 23:57:12 +0700 [INFO]:		Init driver
+2021-09-09 23:57:14 +0700 [INFO]:		startPage 3
+2021-09-09 23:57:14 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-09 23:57:14 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-09 23:57:14 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-09 23:57:14 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-09 23:57:14 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-09 23:57:14 +0700 [INFO]:		Start craw data in page 3
+2021-09-09 23:58:47 +0700 [INFO]:		Craw data page 3 success
+2021-09-09 23:58:47 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-09 23:58:47 +0700 [INFO]:		Craw data success
+2021-09-10 00:30:41 +0700 [INFO]:		Init driver
+2021-09-10 00:30:42 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 00:30:42 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 00:31:54 +0700 [INFO]:		Craw data page 1 success
+2021-09-10 00:31:54 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-10 00:31:54 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 00:31:54 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 00:33:14 +0700 [INFO]:		Craw data page 1 success
+2021-09-10 00:33:14 +0700 [INFO]:		Start craw data in page 2
+2021-09-10 00:33:31 +0700 [INFO]:		Init driver
+2021-09-10 00:33:33 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 00:33:33 +0700 [INFO]:		Start craw data in page 2
+2021-09-10 00:34:43 +0700 [INFO]:		Craw data page 2 success
+2021-09-10 00:34:43 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-10 00:35:03 +0700 [INFO]:		Init driver
+2021-09-10 00:35:04 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 00:35:04 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-10 00:54:14 +0700 [INFO]:		Init driver
+2021-09-10 00:54:15 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 00:54:15 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-10 00:55:38 +0700 [INFO]:		Init driver
+2021-09-10 00:55:40 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 00:55:40 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-10 00:56:27 +0700 [INFO]:		Init driver
+2021-09-10 00:56:28 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-10 00:56:28 +0700 [INFO]:		Craw data https://imitsu.jp/ct-hp-design success
+2021-09-10 00:57:10 +0700 [INFO]:		Init driver
+2021-09-10 01:14:15 +0700 [INFO]:		Init driver
+2021-09-10 01:14:16 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 01:14:16 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-10 01:14:16 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 01:14:16 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-10 01:14:16 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 01:14:16 +0700 [INFO]:		Start craw data in page 3
+2021-09-10 01:15:26 +0700 [INFO]:		Craw data page 3 success
+2021-09-10 01:15:26 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-10 01:26:00 +0700 [INFO]:		Init driver
+2021-09-10 01:26:02 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 01:26:02 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-10 01:26:02 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-10 01:26:02 +0700 [INFO]:		Craw data https://imitsu.jp/ct-hp-design success
+2021-09-10 01:27:55 +0700 [INFO]:		Init driver
+2021-09-10 01:30:07 +0700 [INFO]:		Init driver
+2021-09-10 01:30:08 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 01:30:08 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-10 01:30:08 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 01:30:08 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-10 01:30:08 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-10 01:30:08 +0700 [INFO]:		Craw data https://imitsu.jp/ct-hp-design success
+2021-09-10 01:31:13 +0700 [INFO]:		Init driver
+2021-09-10 01:31:14 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 01:31:14 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 01:32:42 +0700 [INFO]:		Craw data page 1 success
+2021-09-10 01:32:42 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-10 01:32:42 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 01:32:42 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 01:33:10 +0700 [INFO]:		Init driver
+2021-09-10 01:33:11 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 01:33:11 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-10 01:33:11 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 01:33:11 +0700 [INFO]:		Start craw data in page 2
+2021-09-10 01:33:58 +0700 [INFO]:		Init driver
+2021-09-10 01:34:00 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 01:34:00 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-10 01:34:00 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 01:34:00 +0700 [INFO]:		Start craw data in page 2
+2021-09-10 01:36:30 +0700 [INFO]:		Init driver
+2021-09-10 01:36:32 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 01:36:32 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 01:36:44 +0700 [INFO]:		Init driver
+2021-09-10 01:36:45 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 01:36:45 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 01:37:57 +0700 [INFO]:		Craw data page 1 success
+2021-09-10 01:37:57 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-10 01:37:57 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 01:37:57 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 01:39:13 +0700 [INFO]:		Craw data page 1 success
+2021-09-10 01:39:13 +0700 [INFO]:		Start craw data in page 2
+2021-09-10 01:39:21 +0700 [INFO]:		Init driver
+2021-09-10 01:39:22 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 01:39:22 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-10 01:39:22 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 01:39:22 +0700 [INFO]:		Start craw data in page 2
+2021-09-10 01:40:32 +0700 [INFO]:		Craw data page 2 success
+2021-09-10 01:40:32 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-10 01:40:32 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-10 01:40:32 +0700 [INFO]:		Start craw data in page 2
+2021-09-10 01:41:42 +0700 [INFO]:		Craw data page 2 success
+2021-09-10 01:41:42 +0700 [INFO]:		Start craw data in page 3
+2021-09-10 01:42:48 +0700 [INFO]:		Init driver
+2021-09-10 01:42:49 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 01:42:49 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 01:44:02 +0700 [INFO]:		Craw data page 1 success
+2021-09-10 01:44:02 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-10 01:44:02 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 01:44:02 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 01:45:22 +0700 [INFO]:		Craw data page 1 success
+2021-09-10 01:45:22 +0700 [INFO]:		Start craw data in page 2
+2021-09-10 01:46:29 +0700 [INFO]:		Craw data page 2 success
+2021-09-10 01:46:29 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-10 01:46:29 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-10 01:46:29 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 01:47:45 +0700 [INFO]:		Craw data page 1 success
+2021-09-10 01:47:45 +0700 [INFO]:		Start craw data in page 2
+2021-09-10 01:48:56 +0700 [INFO]:		Craw data page 2 success
+2021-09-10 01:48:56 +0700 [INFO]:		Start craw data in page 3
+2021-09-10 01:49:46 +0700 [INFO]:		Init driver
+2021-09-10 01:49:47 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 01:49:47 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-10 01:49:47 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 01:49:47 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-10 01:49:47 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-10 01:49:47 +0700 [INFO]:		Start craw data in page 3
+2021-09-10 01:50:59 +0700 [INFO]:		Craw data page 3 success
+2021-09-10 01:50:59 +0700 [INFO]:		Craw data https://imitsu.jp/ct-hp-design success
+2021-09-10 01:51:36 +0700 [INFO]:		Init driver
+2021-09-10 01:51:37 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 01:51:37 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 01:52:48 +0700 [INFO]:		Craw data page 1 success
+2021-09-10 01:52:48 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-10 01:52:48 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 01:52:48 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 01:54:05 +0700 [INFO]:		Craw data page 1 success
+2021-09-10 01:54:05 +0700 [INFO]:		Start craw data in page 2
+2021-09-10 01:54:12 +0700 [INFO]:		Init driver
+2021-09-10 01:54:13 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 01:54:13 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-10 01:54:13 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 01:54:13 +0700 [INFO]:		Start craw data in page 2
+2021-09-10 01:55:44 +0700 [INFO]:		Craw data page 2 success
+2021-09-10 01:55:44 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-10 01:55:44 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-10 01:55:44 +0700 [INFO]:		Start craw data in page 2
+2021-09-10 02:20:18 +0700 [INFO]:		Init driver
+2021-09-10 02:20:19 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 02:20:19 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 02:21:35 +0700 [INFO]:		Craw data page 1 success
+2021-09-10 02:21:35 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-10 02:21:35 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 02:21:35 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 02:23:15 +0700 [INFO]:		Init driver
+2021-09-10 02:23:16 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 02:23:16 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-10 02:23:16 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 02:23:16 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-10 02:23:16 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-10 02:23:16 +0700 [INFO]:		Craw data https://imitsu.jp/ct-hp-design success
+2021-09-10 02:43:15 +0700 [INFO]:		Init driver
+2021-09-10 02:43:16 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 02:43:16 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 02:44:31 +0700 [INFO]:		Craw data page 1 success
+2021-09-10 02:44:31 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-10 02:44:31 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 02:44:31 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 02:45:49 +0700 [INFO]:		Craw data page 1 success
+2021-09-10 02:45:49 +0700 [INFO]:		Start craw data in page 2
+2021-09-10 02:48:07 +0700 [INFO]:		Init driver
+2021-09-10 02:48:08 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 02:48:08 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 02:49:20 +0700 [INFO]:		Craw data page 1 success
+2021-09-10 02:49:20 +0700 [INFO]:		Start craw data in page 2
+2021-09-10 02:50:30 +0700 [INFO]:		Craw data page 2 success
+2021-09-10 02:50:30 +0700 [INFO]:		Start craw data in page 3
+2021-09-10 02:51:40 +0700 [INFO]:		Craw data page 3 success
+2021-09-10 02:51:40 +0700 [INFO]:		Start craw data in page 4
+2021-09-10 02:52:50 +0700 [INFO]:		Craw data page 4 success
+2021-09-10 02:52:50 +0700 [INFO]:		Start craw data in page 5
+2021-09-10 02:54:01 +0700 [INFO]:		Craw data page 5 success
+2021-09-10 02:54:01 +0700 [INFO]:		Start craw data in page 6
+2021-09-10 02:55:10 +0700 [INFO]:		Craw data page 6 success
+2021-09-10 02:55:10 +0700 [INFO]:		Start craw data in page 7
+2021-09-10 02:56:24 +0700 [INFO]:		Craw data page 7 success
+2021-09-10 02:56:24 +0700 [INFO]:		Start craw data in page 8
+2021-09-10 02:57:33 +0700 [INFO]:		Craw data page 8 success
+2021-09-10 02:57:33 +0700 [INFO]:		Start craw data in page 9
+2021-09-10 02:58:43 +0700 [INFO]:		Craw data page 9 success
+2021-09-10 02:58:43 +0700 [INFO]:		Start craw data in page 10
+2021-09-10 02:59:52 +0700 [INFO]:		Craw data page 10 success
+2021-09-10 02:59:52 +0700 [INFO]:		Start craw data in page 11
+2021-09-10 03:01:05 +0700 [INFO]:		Craw data page 11 success
+2021-09-10 03:01:05 +0700 [INFO]:		Start craw data in page 12
+2021-09-10 03:02:15 +0700 [INFO]:		Craw data page 12 success
+2021-09-10 03:02:15 +0700 [INFO]:		Start craw data in page 13
+2021-09-10 03:03:26 +0700 [INFO]:		Craw data page 13 success
+2021-09-10 03:03:26 +0700 [INFO]:		Start craw data in page 14
+2021-09-10 03:04:38 +0700 [INFO]:		Craw data page 14 success
+2021-09-10 03:04:38 +0700 [INFO]:		Start craw data in page 15
+2021-09-10 03:05:52 +0700 [INFO]:		Craw data page 15 success
+2021-09-10 03:05:52 +0700 [INFO]:		Start craw data in page 16
+2021-09-10 03:07:04 +0700 [INFO]:		Craw data page 16 success
+2021-09-10 03:07:04 +0700 [INFO]:		Start craw data in page 17
+2021-09-10 03:08:18 +0700 [INFO]:		Craw data page 17 success
+2021-09-10 03:08:18 +0700 [INFO]:		Start craw data in page 18
+2021-09-10 03:09:30 +0700 [INFO]:		Craw data page 18 success
+2021-09-10 03:09:30 +0700 [INFO]:		Start craw data in page 19
+2021-09-10 03:10:42 +0700 [INFO]:		Craw data page 19 success
+2021-09-10 03:10:42 +0700 [INFO]:		Start craw data in page 20
+2021-09-10 03:12:01 +0700 [INFO]:		Craw data page 20 success
+2021-09-10 03:12:01 +0700 [INFO]:		Start craw data in page 21
+2021-09-10 03:13:13 +0700 [INFO]:		Craw data page 21 success
+2021-09-10 03:13:13 +0700 [INFO]:		Start craw data in page 22
+2021-09-10 03:14:28 +0700 [INFO]:		Craw data page 22 success
+2021-09-10 03:14:28 +0700 [INFO]:		Start craw data in page 23
+2021-09-10 03:15:40 +0700 [INFO]:		Craw data page 23 success
+2021-09-10 03:15:40 +0700 [INFO]:		Start craw data in page 24
+2021-09-10 03:16:52 +0700 [INFO]:		Craw data page 24 success
+2021-09-10 03:16:52 +0700 [INFO]:		Start craw data in page 25
+2021-09-10 03:18:03 +0700 [INFO]:		Craw data page 25 success
+2021-09-10 03:18:03 +0700 [INFO]:		Start craw data in page 26
+2021-09-10 03:19:19 +0700 [INFO]:		Craw data page 26 success
+2021-09-10 03:19:19 +0700 [INFO]:		Start craw data in page 27
+2021-09-10 03:20:32 +0700 [INFO]:		Craw data page 27 success
+2021-09-10 03:20:32 +0700 [INFO]:		Start craw data in page 28
+2021-09-10 03:21:46 +0700 [INFO]:		Craw data page 28 success
+2021-09-10 03:21:46 +0700 [INFO]:		Start craw data in page 29
+2021-09-10 03:22:57 +0700 [INFO]:		Craw data page 29 success
+2021-09-10 03:22:57 +0700 [INFO]:		Start craw data in page 30
+2021-09-10 03:24:10 +0700 [INFO]:		Craw data page 30 success
+2021-09-10 03:24:10 +0700 [INFO]:		Start craw data in page 31
+2021-09-10 03:25:20 +0700 [INFO]:		Craw data page 31 success
+2021-09-10 03:25:20 +0700 [INFO]:		Start craw data in page 32
+2021-09-10 03:26:32 +0700 [INFO]:		Craw data page 32 success
+2021-09-10 03:26:32 +0700 [INFO]:		Start craw data in page 33
+2021-09-10 03:27:43 +0700 [INFO]:		Craw data page 33 success
+2021-09-10 03:27:43 +0700 [INFO]:		Start craw data in page 34
+2021-09-10 03:28:55 +0700 [INFO]:		Craw data page 34 success
+2021-09-10 03:28:55 +0700 [INFO]:		Start craw data in page 35
+2021-09-10 03:30:08 +0700 [INFO]:		Craw data page 35 success
+2021-09-10 03:30:08 +0700 [INFO]:		Start craw data in page 36
+2021-09-10 03:31:19 +0700 [INFO]:		Craw data page 36 success
+2021-09-10 03:31:19 +0700 [INFO]:		Start craw data in page 37
+2021-09-10 03:32:30 +0700 [INFO]:		Craw data page 37 success
+2021-09-10 03:32:30 +0700 [INFO]:		Start craw data in page 38
+2021-09-10 03:33:44 +0700 [INFO]:		Craw data page 38 success
+2021-09-10 03:33:44 +0700 [INFO]:		Start craw data in page 39
+2021-09-10 03:35:00 +0700 [INFO]:		Craw data page 39 success
+2021-09-10 03:35:00 +0700 [INFO]:		Start craw data in page 40
+2021-09-10 03:36:11 +0700 [INFO]:		Craw data page 40 success
+2021-09-10 03:36:11 +0700 [INFO]:		Start craw data in page 41
+2021-09-10 03:37:23 +0700 [INFO]:		Craw data page 41 success
+2021-09-10 03:37:23 +0700 [INFO]:		Start craw data in page 42
+2021-09-10 03:38:37 +0700 [INFO]:		Craw data page 42 success
+2021-09-10 03:38:37 +0700 [INFO]:		Start craw data in page 43
+2021-09-10 03:39:50 +0700 [INFO]:		Craw data page 43 success
+2021-09-10 03:39:50 +0700 [INFO]:		Start craw data in page 44
+2021-09-10 03:41:01 +0700 [INFO]:		Craw data page 44 success
+2021-09-10 03:41:01 +0700 [INFO]:		Start craw data in page 45
+2021-09-10 03:42:13 +0700 [INFO]:		Craw data page 45 success
+2021-09-10 03:42:13 +0700 [INFO]:		Start craw data in page 46
+2021-09-10 03:43:46 +0700 [INFO]:		Craw data page 46 success
+2021-09-10 03:43:46 +0700 [INFO]:		Start craw data in page 47
+2021-09-10 03:44:58 +0700 [INFO]:		Craw data page 47 success
+2021-09-10 03:44:58 +0700 [INFO]:		Start craw data in page 48
+2021-09-10 03:46:11 +0700 [INFO]:		Craw data page 48 success
+2021-09-10 03:46:11 +0700 [INFO]:		Start craw data in page 49
+2021-09-10 03:47:21 +0700 [INFO]:		Craw data page 49 success
+2021-09-10 03:47:21 +0700 [INFO]:		Start craw data in page 50
+2021-09-10 03:48:33 +0700 [INFO]:		Craw data page 50 success
+2021-09-10 03:48:33 +0700 [INFO]:		Start craw data in page 51
+2021-09-10 03:49:46 +0700 [INFO]:		Craw data page 51 success
+2021-09-10 03:49:46 +0700 [INFO]:		Start craw data in page 52
+2021-09-10 03:50:58 +0700 [INFO]:		Craw data page 52 success
+2021-09-10 03:50:58 +0700 [INFO]:		Start craw data in page 53
+2021-09-10 03:52:10 +0700 [INFO]:		Craw data page 53 success
+2021-09-10 03:52:10 +0700 [INFO]:		Start craw data in page 54
+2021-09-10 03:53:20 +0700 [INFO]:		Craw data page 54 success
+2021-09-10 03:53:21 +0700 [INFO]:		Start craw data in page 55
+2021-09-10 03:54:35 +0700 [INFO]:		Craw data page 55 success
+2021-09-10 03:54:35 +0700 [INFO]:		Start craw data in page 56
+2021-09-10 03:55:47 +0700 [INFO]:		Craw data page 56 success
+2021-09-10 03:55:47 +0700 [INFO]:		Start craw data in page 57
+2021-09-10 03:57:00 +0700 [INFO]:		Craw data page 57 success
+2021-09-10 03:57:00 +0700 [INFO]:		Start craw data in page 58
+2021-09-10 03:58:16 +0700 [INFO]:		Craw data page 58 success
+2021-09-10 03:58:16 +0700 [INFO]:		Start craw data in page 59
+2021-09-10 03:59:32 +0700 [INFO]:		Craw data page 59 success
+2021-09-10 03:59:32 +0700 [INFO]:		Start craw data in page 60
+2021-09-10 04:00:43 +0700 [INFO]:		Craw data page 60 success
+2021-09-10 04:00:43 +0700 [INFO]:		Start craw data in page 61
+2021-09-10 04:01:56 +0700 [INFO]:		Craw data page 61 success
+2021-09-10 04:01:56 +0700 [INFO]:		Start craw data in page 62
+2021-09-10 04:03:07 +0700 [INFO]:		Craw data page 62 success
+2021-09-10 04:03:07 +0700 [INFO]:		Start craw data in page 63
+2021-09-10 04:04:18 +0700 [INFO]:		Craw data page 63 success
+2021-09-10 04:04:18 +0700 [INFO]:		Start craw data in page 64
+2021-09-10 04:05:32 +0700 [INFO]:		Craw data page 64 success
+2021-09-10 04:05:32 +0700 [INFO]:		Start craw data in page 65
+2021-09-10 04:06:45 +0700 [INFO]:		Craw data page 65 success
+2021-09-10 04:06:45 +0700 [INFO]:		Start craw data in page 66
+2021-09-10 04:07:57 +0700 [INFO]:		Craw data page 66 success
+2021-09-10 04:07:57 +0700 [INFO]:		Start craw data in page 67
+2021-09-10 04:09:09 +0700 [INFO]:		Craw data page 67 success
+2021-09-10 04:09:09 +0700 [INFO]:		Start craw data in page 68
+2021-09-10 04:10:23 +0700 [INFO]:		Craw data page 68 success
+2021-09-10 04:10:23 +0700 [INFO]:		Start craw data in page 69
+2021-09-10 04:11:37 +0700 [INFO]:		Craw data page 69 success
+2021-09-10 04:11:37 +0700 [INFO]:		Start craw data in page 70
+2021-09-10 04:12:49 +0700 [INFO]:		Craw data page 70 success
+2021-09-10 04:12:49 +0700 [INFO]:		Start craw data in page 71
+2021-09-10 04:14:00 +0700 [INFO]:		Craw data page 71 success
+2021-09-10 04:14:00 +0700 [INFO]:		Start craw data in page 72
+2021-09-10 04:15:13 +0700 [INFO]:		Craw data page 72 success
+2021-09-10 04:15:13 +0700 [INFO]:		Start craw data in page 73
+2021-09-10 04:16:25 +0700 [INFO]:		Craw data page 73 success
+2021-09-10 04:16:25 +0700 [INFO]:		Start craw data in page 74
+2021-09-10 04:17:38 +0700 [INFO]:		Craw data page 74 success
+2021-09-10 04:17:38 +0700 [INFO]:		Start craw data in page 75
+2021-09-10 04:18:50 +0700 [INFO]:		Craw data page 75 success
+2021-09-10 04:18:50 +0700 [INFO]:		Start craw data in page 76
+2021-09-10 04:20:02 +0700 [INFO]:		Craw data page 76 success
+2021-09-10 04:20:02 +0700 [INFO]:		Start craw data in page 77
+2021-09-10 04:21:15 +0700 [INFO]:		Craw data page 77 success
+2021-09-10 04:21:15 +0700 [INFO]:		Start craw data in page 78
+2021-09-10 04:22:34 +0700 [INFO]:		Craw data page 78 success
+2021-09-10 04:22:34 +0700 [INFO]:		Start craw data in page 79
+2021-09-10 04:23:47 +0700 [INFO]:		Craw data page 79 success
+2021-09-10 04:23:47 +0700 [INFO]:		Start craw data in page 80
+2021-09-10 04:25:00 +0700 [INFO]:		Craw data page 80 success
+2021-09-10 04:25:00 +0700 [INFO]:		Start craw data in page 81
+2021-09-10 04:26:12 +0700 [INFO]:		Craw data page 81 success
+2021-09-10 04:26:12 +0700 [INFO]:		Start craw data in page 82
+2021-09-10 04:27:24 +0700 [INFO]:		Craw data page 82 success
+2021-09-10 04:27:24 +0700 [INFO]:		Start craw data in page 83
+2021-09-10 04:28:36 +0700 [INFO]:		Craw data page 83 success
+2021-09-10 04:28:36 +0700 [INFO]:		Start craw data in page 84
+2021-09-10 04:29:46 +0700 [INFO]:		Craw data page 84 success
+2021-09-10 04:29:46 +0700 [INFO]:		Start craw data in page 85
+2021-09-10 04:30:59 +0700 [INFO]:		Craw data page 85 success
+2021-09-10 04:30:59 +0700 [INFO]:		Start craw data in page 86
+2021-09-10 04:32:11 +0700 [INFO]:		Craw data page 86 success
+2021-09-10 04:32:11 +0700 [INFO]:		Start craw data in page 87
+2021-09-10 04:33:23 +0700 [INFO]:		Craw data page 87 success
+2021-09-10 04:33:23 +0700 [INFO]:		Start craw data in page 88
+2021-09-10 04:34:35 +0700 [INFO]:		Craw data page 88 success
+2021-09-10 04:34:35 +0700 [INFO]:		Start craw data in page 89
+2021-09-10 04:35:46 +0700 [INFO]:		Craw data page 89 success
+2021-09-10 04:35:46 +0700 [INFO]:		Start craw data in page 90
+2021-09-10 04:36:56 +0700 [INFO]:		Craw data page 90 success
+2021-09-10 04:36:56 +0700 [INFO]:		Start craw data in page 91
+2021-09-10 04:38:06 +0700 [INFO]:		Craw data page 91 success
+2021-09-10 04:38:06 +0700 [INFO]:		Start craw data in page 92
+2021-09-10 04:39:16 +0700 [INFO]:		Craw data page 92 success
+2021-09-10 04:39:16 +0700 [INFO]:		Start craw data in page 93
+2021-09-10 04:40:27 +0700 [INFO]:		Craw data page 93 success
+2021-09-10 04:40:27 +0700 [INFO]:		Start craw data in page 94
+2021-09-10 04:41:39 +0700 [INFO]:		Craw data page 94 success
+2021-09-10 04:41:39 +0700 [INFO]:		Start craw data in page 95
+2021-09-10 04:42:52 +0700 [INFO]:		Craw data page 95 success
+2021-09-10 04:42:52 +0700 [INFO]:		Start craw data in page 96
+2021-09-10 04:44:03 +0700 [INFO]:		Craw data page 96 success
+2021-09-10 04:44:03 +0700 [INFO]:		Start craw data in page 97
+2021-09-10 04:45:15 +0700 [INFO]:		Craw data page 97 success
+2021-09-10 04:45:15 +0700 [INFO]:		Start craw data in page 98
+2021-09-10 04:46:26 +0700 [INFO]:		Craw data page 98 success
+2021-09-10 04:46:26 +0700 [INFO]:		Start craw data in page 99
+2021-09-10 04:47:38 +0700 [INFO]:		Craw data page 99 success
+2021-09-10 04:47:38 +0700 [INFO]:		Start craw data in page 100
+2021-09-10 04:48:49 +0700 [INFO]:		Craw data page 100 success
+2021-09-10 04:48:49 +0700 [INFO]:		Start craw data in page 101
+2021-09-10 04:49:59 +0700 [INFO]:		Craw data page 101 success
+2021-09-10 04:49:59 +0700 [INFO]:		Start craw data in page 102
+2021-09-10 04:51:11 +0700 [INFO]:		Craw data page 102 success
+2021-09-10 04:51:11 +0700 [INFO]:		Start craw data in page 103
+2021-09-10 04:52:27 +0700 [INFO]:		Craw data page 103 success
+2021-09-10 04:52:27 +0700 [INFO]:		Start craw data in page 104
+2021-09-10 04:53:39 +0700 [INFO]:		Craw data page 104 success
+2021-09-10 04:53:39 +0700 [INFO]:		Start craw data in page 105
+2021-09-10 04:54:50 +0700 [INFO]:		Craw data page 105 success
+2021-09-10 04:54:50 +0700 [INFO]:		Start craw data in page 106
+2021-09-10 04:56:01 +0700 [INFO]:		Craw data page 106 success
+2021-09-10 04:56:01 +0700 [INFO]:		Start craw data in page 107
+2021-09-10 04:57:12 +0700 [INFO]:		Craw data page 107 success
+2021-09-10 04:57:12 +0700 [INFO]:		Start craw data in page 108
+2021-09-10 04:58:22 +0700 [INFO]:		Craw data page 108 success
+2021-09-10 04:58:22 +0700 [INFO]:		Start craw data in page 109
+2021-09-10 04:59:33 +0700 [INFO]:		Craw data page 109 success
+2021-09-10 04:59:33 +0700 [INFO]:		Start craw data in page 110
+2021-09-10 05:00:43 +0700 [INFO]:		Craw data page 110 success
+2021-09-10 05:00:43 +0700 [INFO]:		Start craw data in page 111
+2021-09-10 05:01:55 +0700 [INFO]:		Craw data page 111 success
+2021-09-10 05:01:55 +0700 [INFO]:		Start craw data in page 112
+2021-09-10 05:03:06 +0700 [INFO]:		Craw data page 112 success
+2021-09-10 05:03:06 +0700 [INFO]:		Start craw data in page 113
+2021-09-10 05:04:17 +0700 [INFO]:		Craw data page 113 success
+2021-09-10 05:04:17 +0700 [INFO]:		Start craw data in page 114
+2021-09-10 05:05:28 +0700 [INFO]:		Craw data page 114 success
+2021-09-10 05:05:28 +0700 [INFO]:		Start craw data in page 115
+2021-09-10 05:06:39 +0700 [INFO]:		Craw data page 115 success
+2021-09-10 05:06:39 +0700 [INFO]:		Start craw data in page 116
+2021-09-10 05:07:50 +0700 [INFO]:		Craw data page 116 success
+2021-09-10 05:07:50 +0700 [INFO]:		Start craw data in page 117
+2021-09-10 05:09:01 +0700 [INFO]:		Craw data page 117 success
+2021-09-10 05:09:01 +0700 [INFO]:		Start craw data in page 118
+2021-09-10 05:10:11 +0700 [INFO]:		Craw data page 118 success
+2021-09-10 05:10:11 +0700 [INFO]:		Start craw data in page 119
+2021-09-10 05:11:21 +0700 [INFO]:		Craw data page 119 success
+2021-09-10 05:11:21 +0700 [INFO]:		Start craw data in page 120
+2021-09-10 05:12:31 +0700 [INFO]:		Craw data page 120 success
+2021-09-10 05:12:31 +0700 [INFO]:		Start craw data in page 121
+2021-09-10 05:13:43 +0700 [INFO]:		Craw data page 121 success
+2021-09-10 05:13:43 +0700 [INFO]:		Start craw data in page 122
+2021-09-10 05:14:57 +0700 [INFO]:		Craw data page 122 success
+2021-09-10 05:14:57 +0700 [INFO]:		Start craw data in page 123
+2021-09-10 05:16:07 +0700 [INFO]:		Craw data page 123 success
+2021-09-10 05:16:07 +0700 [INFO]:		Start craw data in page 124
+2021-09-10 05:17:17 +0700 [INFO]:		Craw data page 124 success
+2021-09-10 05:17:17 +0700 [INFO]:		Start craw data in page 125
+2021-09-10 05:18:28 +0700 [INFO]:		Craw data page 125 success
+2021-09-10 05:18:28 +0700 [INFO]:		Start craw data in page 126
+2021-09-10 05:19:38 +0700 [INFO]:		Craw data page 126 success
+2021-09-10 05:19:38 +0700 [INFO]:		Start craw data in page 127
+2021-09-10 05:20:49 +0700 [INFO]:		Craw data page 127 success
+2021-09-10 05:20:49 +0700 [INFO]:		Start craw data in page 128
+2021-09-10 05:22:00 +0700 [INFO]:		Craw data page 128 success
+2021-09-10 05:22:00 +0700 [INFO]:		Start craw data in page 129
+2021-09-10 05:23:12 +0700 [INFO]:		Craw data page 129 success
+2021-09-10 05:23:12 +0700 [INFO]:		Start craw data in page 130
+2021-09-10 05:24:23 +0700 [INFO]:		Craw data page 130 success
+2021-09-10 05:24:23 +0700 [INFO]:		Start craw data in page 131
+2021-09-10 05:25:35 +0700 [INFO]:		Craw data page 131 success
+2021-09-10 05:25:35 +0700 [INFO]:		Start craw data in page 132
+2021-09-10 05:26:48 +0700 [INFO]:		Craw data page 132 success
+2021-09-10 05:26:48 +0700 [INFO]:		Start craw data in page 133
+2021-09-10 05:28:05 +0700 [INFO]:		Craw data page 133 success
+2021-09-10 05:28:05 +0700 [INFO]:		Start craw data in page 134
+2021-09-10 05:29:20 +0700 [INFO]:		Craw data page 134 success
+2021-09-10 05:29:20 +0700 [INFO]:		Start craw data in page 135
+2021-09-10 05:30:34 +0700 [INFO]:		Craw data page 135 success
+2021-09-10 05:30:34 +0700 [INFO]:		Start craw data in page 136
+2021-09-10 05:31:46 +0700 [INFO]:		Craw data page 136 success
+2021-09-10 05:31:46 +0700 [INFO]:		Start craw data in page 137
+2021-09-10 05:32:58 +0700 [INFO]:		Craw data page 137 success
+2021-09-10 05:32:58 +0700 [INFO]:		Start craw data in page 138
+2021-09-10 05:34:11 +0700 [INFO]:		Craw data page 138 success
+2021-09-10 05:34:11 +0700 [INFO]:		Start craw data in page 139
+2021-09-10 05:35:21 +0700 [INFO]:		Craw data page 139 success
+2021-09-10 05:35:21 +0700 [INFO]:		Start craw data in page 140
+2021-09-10 05:36:31 +0700 [INFO]:		Craw data page 140 success
+2021-09-10 05:36:31 +0700 [INFO]:		Start craw data in page 141
+2021-09-10 05:37:43 +0700 [INFO]:		Craw data page 141 success
+2021-09-10 05:37:43 +0700 [INFO]:		Start craw data in page 142
+2021-09-10 05:38:54 +0700 [INFO]:		Craw data page 142 success
+2021-09-10 05:38:54 +0700 [INFO]:		Start craw data in page 143
+2021-09-10 05:40:07 +0700 [INFO]:		Craw data page 143 success
+2021-09-10 05:40:07 +0700 [INFO]:		Start craw data in page 144
+2021-09-10 05:41:26 +0700 [INFO]:		Craw data page 144 success
+2021-09-10 05:41:26 +0700 [INFO]:		Start craw data in page 145
+2021-09-10 05:42:39 +0700 [INFO]:		Craw data page 145 success
+2021-09-10 05:42:39 +0700 [INFO]:		Start craw data in page 146
+2021-09-10 05:43:59 +0700 [INFO]:		Craw data page 146 success
+2021-09-10 05:43:59 +0700 [INFO]:		Start craw data in page 147
+2021-09-10 05:45:10 +0700 [INFO]:		Craw data page 147 success
+2021-09-10 05:45:10 +0700 [INFO]:		Start craw data in page 148
+2021-09-10 05:46:22 +0700 [INFO]:		Craw data page 148 success
+2021-09-10 05:46:22 +0700 [INFO]:		Start craw data in page 149
+2021-09-10 05:47:32 +0700 [INFO]:		Craw data page 149 success
+2021-09-10 05:47:32 +0700 [INFO]:		Start craw data in page 150
+2021-09-10 05:48:43 +0700 [INFO]:		Craw data page 150 success
+2021-09-10 05:48:43 +0700 [INFO]:		Start craw data in page 151
+2021-09-10 05:49:53 +0700 [INFO]:		Craw data page 151 success
+2021-09-10 05:49:53 +0700 [INFO]:		Start craw data in page 152
+2021-09-10 05:51:04 +0700 [INFO]:		Craw data page 152 success
+2021-09-10 05:51:04 +0700 [INFO]:		Start craw data in page 153
+2021-09-10 05:52:15 +0700 [INFO]:		Craw data page 153 success
+2021-09-10 05:52:15 +0700 [INFO]:		Start craw data in page 154
+2021-09-10 05:53:29 +0700 [INFO]:		Craw data page 154 success
+2021-09-10 05:53:29 +0700 [INFO]:		Start craw data in page 155
+2021-09-10 05:54:39 +0700 [INFO]:		Craw data page 155 success
+2021-09-10 05:54:39 +0700 [INFO]:		Start craw data in page 156
+2021-09-10 05:55:56 +0700 [INFO]:		Craw data page 156 success
+2021-09-10 05:55:56 +0700 [INFO]:		Start craw data in page 157
+2021-09-10 05:57:09 +0700 [INFO]:		Craw data page 157 success
+2021-09-10 05:57:09 +0700 [INFO]:		Start craw data in page 158
+2021-09-10 05:58:22 +0700 [INFO]:		Craw data page 158 success
+2021-09-10 05:58:22 +0700 [INFO]:		Start craw data in page 159
+2021-09-10 05:59:33 +0700 [INFO]:		Craw data page 159 success
+2021-09-10 05:59:33 +0700 [INFO]:		Start craw data in page 160
+2021-09-10 06:00:45 +0700 [INFO]:		Craw data page 160 success
+2021-09-10 06:00:45 +0700 [INFO]:		Start craw data in page 161
+2021-09-10 06:01:56 +0700 [INFO]:		Craw data page 161 success
+2021-09-10 06:01:56 +0700 [INFO]:		Start craw data in page 162
+2021-09-10 06:03:08 +0700 [INFO]:		Craw data page 162 success
+2021-09-10 06:03:08 +0700 [INFO]:		Start craw data in page 163
+2021-09-10 06:04:19 +0700 [INFO]:		Craw data page 163 success
+2021-09-10 06:04:19 +0700 [INFO]:		Start craw data in page 164
+2021-09-10 06:05:30 +0700 [INFO]:		Craw data page 164 success
+2021-09-10 06:05:30 +0700 [INFO]:		Start craw data in page 165
+2021-09-10 06:06:40 +0700 [INFO]:		Craw data page 165 success
+2021-09-10 06:06:40 +0700 [INFO]:		Start craw data in page 166
+2021-09-10 06:07:51 +0700 [INFO]:		Craw data page 166 success
+2021-09-10 06:07:51 +0700 [INFO]:		Start craw data in page 167
+2021-09-10 06:09:02 +0700 [INFO]:		Craw data page 167 success
+2021-09-10 06:09:02 +0700 [INFO]:		Start craw data in page 168
+2021-09-10 06:10:13 +0700 [INFO]:		Craw data page 168 success
+2021-09-10 06:10:13 +0700 [INFO]:		Start craw data in page 169
+2021-09-10 06:11:23 +0700 [INFO]:		Craw data page 169 success
+2021-09-10 06:11:23 +0700 [INFO]:		Start craw data in page 170
+2021-09-10 06:12:34 +0700 [INFO]:		Craw data page 170 success
+2021-09-10 06:12:34 +0700 [INFO]:		Start craw data in page 171
+2021-09-10 06:13:44 +0700 [INFO]:		Craw data page 171 success
+2021-09-10 06:13:44 +0700 [INFO]:		Start craw data in page 172
+2021-09-10 06:14:55 +0700 [INFO]:		Craw data page 172 success
+2021-09-10 06:14:55 +0700 [INFO]:		Start craw data in page 173
+2021-09-10 06:16:06 +0700 [INFO]:		Craw data page 173 success
+2021-09-10 06:16:06 +0700 [INFO]:		Start craw data in page 174
+2021-09-10 06:17:17 +0700 [INFO]:		Craw data page 174 success
+2021-09-10 06:17:17 +0700 [INFO]:		Start craw data in page 175
+2021-09-10 06:18:27 +0700 [INFO]:		Craw data page 175 success
+2021-09-10 06:18:27 +0700 [INFO]:		Start craw data in page 176
+2021-09-10 06:19:36 +0700 [INFO]:		Craw data page 176 success
+2021-09-10 06:19:36 +0700 [INFO]:		Start craw data in page 177
+2021-09-10 06:20:47 +0700 [INFO]:		Craw data page 177 success
+2021-09-10 06:20:47 +0700 [INFO]:		Start craw data in page 178
+2021-09-10 06:21:57 +0700 [INFO]:		Craw data page 178 success
+2021-09-10 06:21:57 +0700 [INFO]:		Start craw data in page 179
+2021-09-10 06:23:08 +0700 [INFO]:		Craw data page 179 success
+2021-09-10 06:23:08 +0700 [INFO]:		Start craw data in page 180
+2021-09-10 06:24:19 +0700 [INFO]:		Craw data page 180 success
+2021-09-10 06:24:19 +0700 [INFO]:		Start craw data in page 181
+2021-09-10 06:25:29 +0700 [INFO]:		Craw data page 181 success
+2021-09-10 06:25:29 +0700 [INFO]:		Start craw data in page 182
+2021-09-10 06:26:40 +0700 [INFO]:		Craw data page 182 success
+2021-09-10 06:26:40 +0700 [INFO]:		Start craw data in page 183
+2021-09-10 06:27:55 +0700 [INFO]:		Craw data page 183 success
+2021-09-10 06:27:55 +0700 [INFO]:		Start craw data in page 184
+2021-09-10 06:29:06 +0700 [INFO]:		Craw data page 184 success
+2021-09-10 06:29:06 +0700 [INFO]:		Start craw data in page 185
+2021-09-10 06:30:17 +0700 [INFO]:		Craw data page 185 success
+2021-09-10 06:30:17 +0700 [INFO]:		Start craw data in page 186
+2021-09-10 06:31:28 +0700 [INFO]:		Craw data page 186 success
+2021-09-10 06:31:28 +0700 [INFO]:		Start craw data in page 187
+2021-09-10 06:32:38 +0700 [INFO]:		Craw data page 187 success
+2021-09-10 06:32:38 +0700 [INFO]:		Start craw data in page 188
+2021-09-10 06:33:48 +0700 [INFO]:		Craw data page 188 success
+2021-09-10 06:33:48 +0700 [INFO]:		Start craw data in page 189
+2021-09-10 06:34:58 +0700 [INFO]:		Craw data page 189 success
+2021-09-10 06:34:58 +0700 [INFO]:		Start craw data in page 190
+2021-09-10 06:36:09 +0700 [INFO]:		Craw data page 190 success
+2021-09-10 06:36:09 +0700 [INFO]:		Start craw data in page 191
+2021-09-10 06:37:18 +0700 [INFO]:		Craw data page 191 success
+2021-09-10 06:37:18 +0700 [INFO]:		Start craw data in page 192
+2021-09-10 06:38:29 +0700 [INFO]:		Craw data page 192 success
+2021-09-10 06:38:29 +0700 [INFO]:		Start craw data in page 193
+2021-09-10 06:39:39 +0700 [INFO]:		Craw data page 193 success
+2021-09-10 06:39:39 +0700 [INFO]:		Start craw data in page 194
+2021-09-10 06:40:49 +0700 [INFO]:		Craw data page 194 success
+2021-09-10 06:40:49 +0700 [INFO]:		Start craw data in page 195
+2021-09-10 06:41:59 +0700 [INFO]:		Craw data page 195 success
+2021-09-10 06:41:59 +0700 [INFO]:		Start craw data in page 196
+2021-09-10 06:43:08 +0700 [INFO]:		Craw data page 196 success
+2021-09-10 06:43:08 +0700 [INFO]:		Start craw data in page 197
+2021-09-10 06:44:18 +0700 [INFO]:		Craw data page 197 success
+2021-09-10 06:44:18 +0700 [INFO]:		Start craw data in page 198
+2021-09-10 06:45:28 +0700 [INFO]:		Craw data page 198 success
+2021-09-10 06:45:28 +0700 [INFO]:		Start craw data in page 199
+2021-09-10 06:46:43 +0700 [INFO]:		Craw data page 199 success
+2021-09-10 06:46:43 +0700 [INFO]:		Start craw data in page 200
+2021-09-10 06:47:54 +0700 [INFO]:		Craw data page 200 success
+2021-09-10 06:47:54 +0700 [INFO]:		Start craw data in page 201
+2021-09-10 06:49:04 +0700 [INFO]:		Craw data page 201 success
+2021-09-10 06:49:04 +0700 [INFO]:		Start craw data in page 202
+2021-09-10 06:50:14 +0700 [INFO]:		Craw data page 202 success
+2021-09-10 06:50:14 +0700 [INFO]:		Start craw data in page 203
+2021-09-10 06:51:23 +0700 [INFO]:		Craw data page 203 success
+2021-09-10 06:51:23 +0700 [INFO]:		Start craw data in page 204
+2021-09-10 06:52:57 +0700 [INFO]:		Craw data page 204 success
+2021-09-10 06:52:57 +0700 [INFO]:		Start craw data in page 205
+2021-09-10 06:54:17 +0700 [INFO]:		Craw data page 205 success
+2021-09-10 06:54:17 +0700 [INFO]:		Start craw data in page 206
+2021-09-10 06:55:30 +0700 [INFO]:		Craw data page 206 success
+2021-09-10 06:55:30 +0700 [INFO]:		Start craw data in page 207
+2021-09-10 06:56:40 +0700 [INFO]:		Craw data page 207 success
+2021-09-10 06:56:40 +0700 [INFO]:		Start craw data in page 208
+2021-09-10 06:57:51 +0700 [INFO]:		Craw data page 208 success
+2021-09-10 06:57:51 +0700 [INFO]:		Start craw data in page 209
+2021-09-10 08:56:07 +0700 [INFO]:		Init driver
+2021-09-10 08:56:09 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 08:56:09 +0700 [INFO]:		Start craw data in page 209
+2021-09-10 08:57:23 +0700 [INFO]:		Craw data page 209 success
+2021-09-10 08:57:23 +0700 [INFO]:		Start craw data in page 210
+2021-09-10 08:58:37 +0700 [INFO]:		Craw data page 210 success
+2021-09-10 08:58:37 +0700 [INFO]:		Start craw data in page 211
+2021-09-10 08:59:49 +0700 [INFO]:		Craw data page 211 success
+2021-09-10 08:59:49 +0700 [INFO]:		Start craw data in page 212
+2021-09-10 09:01:04 +0700 [INFO]:		Craw data page 212 success
+2021-09-10 09:01:04 +0700 [INFO]:		Start craw data in page 213
+2021-09-10 09:02:21 +0700 [INFO]:		Craw data page 213 success
+2021-09-10 09:02:21 +0700 [INFO]:		Start craw data in page 214
+2021-09-10 09:03:33 +0700 [INFO]:		Craw data page 214 success
+2021-09-10 09:03:33 +0700 [INFO]:		Start craw data in page 215
+2021-09-10 09:04:43 +0700 [INFO]:		Craw data page 215 success
+2021-09-10 09:04:43 +0700 [INFO]:		Start craw data in page 216
+2021-09-10 09:05:54 +0700 [INFO]:		Craw data page 216 success
+2021-09-10 09:05:54 +0700 [INFO]:		Start craw data in page 217
+2021-09-10 09:07:06 +0700 [INFO]:		Craw data page 217 success
+2021-09-10 09:07:06 +0700 [INFO]:		Start craw data in page 218
+2021-09-10 09:08:16 +0700 [INFO]:		Craw data page 218 success
+2021-09-10 09:08:16 +0700 [INFO]:		Start craw data in page 219
+2021-09-10 09:09:34 +0700 [INFO]:		Craw data page 219 success
+2021-09-10 09:09:34 +0700 [INFO]:		Start craw data in page 220
+2021-09-10 09:12:11 +0700 [INFO]:		Craw data page 220 success
+2021-09-10 09:12:11 +0700 [INFO]:		Start craw data in page 221
+2021-09-10 09:13:27 +0700 [INFO]:		Craw data page 221 success
+2021-09-10 09:13:27 +0700 [INFO]:		Start craw data in page 222
+2021-09-10 09:14:40 +0700 [INFO]:		Craw data page 222 success
+2021-09-10 09:14:40 +0700 [INFO]:		Start craw data in page 223
+2021-09-10 09:15:52 +0700 [INFO]:		Craw data page 223 success
+2021-09-10 09:15:52 +0700 [INFO]:		Start craw data in page 224
+2021-09-10 09:17:14 +0700 [INFO]:		Craw data page 224 success
+2021-09-10 09:17:14 +0700 [INFO]:		Start craw data in page 225
+2021-09-10 09:18:40 +0700 [INFO]:		Craw data page 225 success
+2021-09-10 09:18:40 +0700 [INFO]:		Start craw data in page 226
+2021-09-10 09:19:56 +0700 [INFO]:		Craw data page 226 success
+2021-09-10 09:19:56 +0700 [INFO]:		Start craw data in page 227
+2021-09-10 09:21:15 +0700 [INFO]:		Craw data page 227 success
+2021-09-10 09:21:15 +0700 [INFO]:		Start craw data in page 228
+2021-09-10 09:22:34 +0700 [INFO]:		Craw data page 228 success
+2021-09-10 09:22:34 +0700 [INFO]:		Start craw data in page 229
+2021-09-10 09:23:59 +0700 [INFO]:		Craw data page 229 success
+2021-09-10 09:23:59 +0700 [INFO]:		Start craw data in page 230
+2021-09-10 09:25:16 +0700 [INFO]:		Craw data page 230 success
+2021-09-10 09:25:16 +0700 [INFO]:		Start craw data in page 231
+2021-09-10 09:26:32 +0700 [INFO]:		Craw data page 231 success
+2021-09-10 09:26:32 +0700 [INFO]:		Start craw data in page 232
+2021-09-10 09:27:49 +0700 [INFO]:		Craw data page 232 success
+2021-09-10 09:27:49 +0700 [INFO]:		Start craw data in page 233
+2021-09-10 09:29:09 +0700 [INFO]:		Craw data page 233 success
+2021-09-10 09:29:09 +0700 [INFO]:		Start craw data in page 234
+2021-09-10 09:30:25 +0700 [INFO]:		Craw data page 234 success
+2021-09-10 09:30:25 +0700 [INFO]:		Start craw data in page 235
+2021-09-10 09:31:39 +0700 [INFO]:		Craw data page 235 success
+2021-09-10 09:31:39 +0700 [INFO]:		Start craw data in page 236
+2021-09-10 09:33:03 +0700 [INFO]:		Craw data page 236 success
+2021-09-10 09:33:03 +0700 [INFO]:		Start craw data in page 237
+2021-09-10 09:34:22 +0700 [INFO]:		Craw data page 237 success
+2021-09-10 09:34:22 +0700 [INFO]:		Start craw data in page 238
+2021-09-10 09:35:44 +0700 [INFO]:		Craw data page 238 success
+2021-09-10 09:35:44 +0700 [INFO]:		Start craw data in page 239
+2021-09-10 09:37:03 +0700 [INFO]:		Craw data page 239 success
+2021-09-10 09:37:03 +0700 [INFO]:		Start craw data in page 240
+2021-09-10 09:38:24 +0700 [INFO]:		Craw data page 240 success
+2021-09-10 09:38:24 +0700 [INFO]:		Start craw data in page 241
+2021-09-10 09:39:37 +0700 [INFO]:		Craw data page 241 success
+2021-09-10 09:39:37 +0700 [INFO]:		Start craw data in page 242
+2021-09-10 09:40:52 +0700 [INFO]:		Craw data page 242 success
+2021-09-10 09:40:52 +0700 [INFO]:		Start craw data in page 243
+2021-09-10 09:42:05 +0700 [INFO]:		Craw data page 243 success
+2021-09-10 09:42:05 +0700 [INFO]:		Start craw data in page 244
+2021-09-10 09:43:22 +0700 [INFO]:		Craw data page 244 success
+2021-09-10 09:43:22 +0700 [INFO]:		Start craw data in page 245
+2021-09-10 09:44:38 +0700 [INFO]:		Craw data page 245 success
+2021-09-10 09:44:38 +0700 [INFO]:		Start craw data in page 246
+2021-09-10 09:45:51 +0700 [INFO]:		Craw data page 246 success
+2021-09-10 09:45:51 +0700 [INFO]:		Start craw data in page 247
+2021-09-10 09:47:04 +0700 [INFO]:		Craw data page 247 success
+2021-09-10 09:47:04 +0700 [INFO]:		Start craw data in page 248
+2021-09-10 09:51:08 +0700 [INFO]:		Init driver
+2021-09-10 09:51:09 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 09:51:09 +0700 [INFO]:		Start craw data in page 248
+2021-09-10 09:52:26 +0700 [INFO]:		Craw data page 248 success
+2021-09-10 09:52:26 +0700 [INFO]:		Start craw data in page 249
+2021-09-10 09:53:39 +0700 [INFO]:		Craw data page 249 success
+2021-09-10 09:53:39 +0700 [INFO]:		Start craw data in page 250
+2021-09-10 09:54:52 +0700 [INFO]:		Craw data page 250 success
+2021-09-10 09:54:52 +0700 [INFO]:		Start craw data in page 251
+2021-09-10 09:56:24 +0700 [INFO]:		Craw data page 251 success
+2021-09-10 09:56:24 +0700 [INFO]:		Start craw data in page 252
+2021-09-10 09:57:38 +0700 [INFO]:		Craw data page 252 success
+2021-09-10 09:57:38 +0700 [INFO]:		Start craw data in page 253
+2021-09-10 09:58:52 +0700 [INFO]:		Craw data page 253 success
+2021-09-10 09:58:52 +0700 [INFO]:		Start craw data in page 254
+2021-09-10 10:00:05 +0700 [INFO]:		Craw data page 254 success
+2021-09-10 10:00:05 +0700 [INFO]:		Start craw data in page 255
+2021-09-10 10:01:50 +0700 [INFO]:		Craw data page 255 success
+2021-09-10 10:01:50 +0700 [INFO]:		Start craw data in page 256
+2021-09-10 10:03:03 +0700 [INFO]:		Craw data page 256 success
+2021-09-10 10:03:03 +0700 [INFO]:		Start craw data in page 257
+2021-09-10 10:04:14 +0700 [INFO]:		Craw data page 257 success
+2021-09-10 10:04:14 +0700 [INFO]:		Start craw data in page 258
+2021-09-10 10:05:30 +0700 [INFO]:		Craw data page 258 success
+2021-09-10 10:05:30 +0700 [INFO]:		Start craw data in page 259
+2021-09-10 10:06:43 +0700 [INFO]:		Craw data page 259 success
+2021-09-10 10:06:43 +0700 [INFO]:		Start craw data in page 260
+2021-09-10 10:07:55 +0700 [INFO]:		Craw data page 260 success
+2021-09-10 10:07:55 +0700 [INFO]:		Start craw data in page 261
+2021-09-10 10:09:23 +0700 [INFO]:		Craw data page 261 success
+2021-09-10 10:09:23 +0700 [INFO]:		Start craw data in page 262
+2021-09-10 10:10:39 +0700 [INFO]:		Craw data page 262 success
+2021-09-10 10:10:39 +0700 [INFO]:		Start craw data in page 263
+2021-09-10 10:11:52 +0700 [INFO]:		Craw data page 263 success
+2021-09-10 10:11:52 +0700 [INFO]:		Start craw data in page 264
+2021-09-10 10:13:03 +0700 [INFO]:		Craw data page 264 success
+2021-09-10 10:13:03 +0700 [INFO]:		Start craw data in page 265
+2021-09-10 10:14:27 +0700 [INFO]:		Craw data page 265 success
+2021-09-10 10:14:27 +0700 [INFO]:		Start craw data in page 266
+2021-09-10 10:15:45 +0700 [INFO]:		Craw data page 266 success
+2021-09-10 10:15:45 +0700 [INFO]:		Start craw data in page 267
+2021-09-10 10:16:58 +0700 [INFO]:		Craw data page 267 success
+2021-09-10 10:16:58 +0700 [INFO]:		Start craw data in page 268
+2021-09-10 10:18:42 +0700 [INFO]:		Craw data page 268 success
+2021-09-10 10:18:42 +0700 [INFO]:		Start craw data in page 269
+2021-09-10 10:19:59 +0700 [INFO]:		Craw data page 269 success
+2021-09-10 10:19:59 +0700 [INFO]:		Start craw data in page 270
+2021-09-10 10:21:32 +0700 [INFO]:		Craw data page 270 success
+2021-09-10 10:21:32 +0700 [INFO]:		Start craw data in page 271
+2021-09-10 10:22:45 +0700 [INFO]:		Craw data page 271 success
+2021-09-10 10:22:45 +0700 [INFO]:		Start craw data in page 272
+2021-09-10 10:24:09 +0700 [INFO]:		Craw data page 272 success
+2021-09-10 10:24:09 +0700 [INFO]:		Start craw data in page 273
+2021-09-10 10:25:41 +0700 [INFO]:		Craw data page 273 success
+2021-09-10 10:25:41 +0700 [INFO]:		Start craw data in page 274
+2021-09-10 10:26:53 +0700 [INFO]:		Craw data page 274 success
+2021-09-10 10:26:53 +0700 [INFO]:		Start craw data in page 275
+2021-09-10 10:28:18 +0700 [INFO]:		Craw data page 275 success
+2021-09-10 10:28:18 +0700 [INFO]:		Start craw data in page 276
+2021-09-10 10:29:35 +0700 [INFO]:		Craw data page 276 success
+2021-09-10 10:29:35 +0700 [INFO]:		Start craw data in page 277
+2021-09-10 10:31:04 +0700 [INFO]:		Craw data page 277 success
+2021-09-10 10:31:04 +0700 [INFO]:		Start craw data in page 278
+2021-09-10 10:32:20 +0700 [INFO]:		Craw data page 278 success
+2021-09-10 10:32:20 +0700 [INFO]:		Start craw data in page 279
+2021-09-10 10:33:38 +0700 [INFO]:		Craw data page 279 success
+2021-09-10 10:33:38 +0700 [INFO]:		Start craw data in page 280
+2021-09-10 10:34:51 +0700 [INFO]:		Craw data page 280 success
+2021-09-10 10:34:51 +0700 [INFO]:		Start craw data in page 281
+2021-09-10 10:36:15 +0700 [INFO]:		Craw data page 281 success
+2021-09-10 10:36:15 +0700 [INFO]:		Start craw data in page 282
+2021-09-10 10:37:50 +0700 [INFO]:		Craw data page 282 success
+2021-09-10 10:37:50 +0700 [INFO]:		Start craw data in page 283
+2021-09-10 10:39:27 +0700 [INFO]:		Craw data page 283 success
+2021-09-10 10:39:27 +0700 [INFO]:		Start craw data in page 284
+2021-09-10 10:40:53 +0700 [INFO]:		Craw data page 284 success
+2021-09-10 10:40:53 +0700 [INFO]:		Start craw data in page 285
+2021-09-10 10:42:12 +0700 [INFO]:		Craw data page 285 success
+2021-09-10 10:42:12 +0700 [INFO]:		Start craw data in page 286
+2021-09-10 10:43:38 +0700 [INFO]:		Craw data page 286 success
+2021-09-10 10:43:38 +0700 [INFO]:		Start craw data in page 287
+2021-09-10 10:44:50 +0700 [INFO]:		Craw data page 287 success
+2021-09-10 10:44:50 +0700 [INFO]:		Start craw data in page 288
+2021-09-10 10:46:07 +0700 [INFO]:		Craw data page 288 success
+2021-09-10 10:46:07 +0700 [INFO]:		Start craw data in page 289
+2021-09-10 10:47:17 +0700 [INFO]:		Craw data page 289 success
+2021-09-10 10:47:17 +0700 [INFO]:		Start craw data in page 290
+2021-09-10 10:48:44 +0700 [INFO]:		Craw data page 290 success
+2021-09-10 10:48:44 +0700 [INFO]:		Start craw data in page 291
+2021-09-10 10:50:04 +0700 [INFO]:		Craw data page 291 success
+2021-09-10 10:50:04 +0700 [INFO]:		Start craw data in page 292
+2021-09-10 10:51:29 +0700 [INFO]:		Craw data page 292 success
+2021-09-10 10:51:29 +0700 [INFO]:		Start craw data in page 293
+2021-09-10 10:52:45 +0700 [INFO]:		Craw data page 293 success
+2021-09-10 10:52:45 +0700 [INFO]:		Start craw data in page 294
+2021-09-10 10:54:09 +0700 [INFO]:		Craw data page 294 success
+2021-09-10 10:54:09 +0700 [INFO]:		Start craw data in page 295
+2021-09-10 10:55:20 +0700 [INFO]:		Craw data page 295 success
+2021-09-10 10:55:20 +0700 [INFO]:		Start craw data in page 296
+2021-09-10 10:56:33 +0700 [INFO]:		Craw data page 296 success
+2021-09-10 10:56:33 +0700 [INFO]:		Start craw data in page 297
+2021-09-10 10:57:57 +0700 [INFO]:		Craw data page 297 success
+2021-09-10 10:57:57 +0700 [INFO]:		Start craw data in page 298
+2021-09-10 10:59:08 +0700 [INFO]:		Craw data page 298 success
+2021-09-10 10:59:08 +0700 [INFO]:		Start craw data in page 299
+2021-09-10 11:00:17 +0700 [INFO]:		Craw data page 299 success
+2021-09-10 11:00:17 +0700 [INFO]:		Start craw data in page 300
+2021-09-10 11:01:27 +0700 [INFO]:		Craw data page 300 success
+2021-09-10 11:01:27 +0700 [INFO]:		Start craw data in page 301
+2021-09-10 11:02:40 +0700 [INFO]:		Craw data page 301 success
+2021-09-10 11:02:40 +0700 [INFO]:		Start craw data in page 302
+2021-09-10 11:03:54 +0700 [INFO]:		Craw data page 302 success
+2021-09-10 11:03:54 +0700 [INFO]:		Start craw data in page 303
+2021-09-10 11:08:41 +0700 [INFO]:		Init driver
+2021-09-10 11:08:43 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 11:08:43 +0700 [INFO]:		Start craw data in page 303
+2021-09-10 11:09:53 +0700 [INFO]:		Craw data page 303 success
+2021-09-10 11:09:53 +0700 [INFO]:		Start craw data in page 304
+2021-09-10 11:11:08 +0700 [INFO]:		Craw data page 304 success
+2021-09-10 11:11:08 +0700 [INFO]:		Start craw data in page 305
+2021-09-10 11:12:26 +0700 [INFO]:		Craw data page 305 success
+2021-09-10 11:12:26 +0700 [INFO]:		Start craw data in page 306
+2021-09-10 11:13:38 +0700 [INFO]:		Craw data page 306 success
+2021-09-10 11:13:38 +0700 [INFO]:		Start craw data in page 307
+2021-09-10 11:15:04 +0700 [INFO]:		Craw data page 307 success
+2021-09-10 11:15:04 +0700 [INFO]:		Start craw data in page 308
+2021-09-10 11:16:28 +0700 [INFO]:		Craw data page 308 success
+2021-09-10 11:16:28 +0700 [INFO]:		Start craw data in page 309
+2021-09-10 11:17:44 +0700 [INFO]:		Craw data page 309 success
+2021-09-10 11:17:44 +0700 [INFO]:		Start craw data in page 310
+2021-09-10 11:18:56 +0700 [INFO]:		Craw data page 310 success
+2021-09-10 11:18:56 +0700 [INFO]:		Start craw data in page 311
+2021-09-10 11:20:05 +0700 [INFO]:		Craw data page 311 success
+2021-09-10 11:20:05 +0700 [INFO]:		Start craw data in page 312
+2021-09-10 11:22:13 +0700 [INFO]:		Craw data page 312 success
+2021-09-10 11:22:13 +0700 [INFO]:		Start craw data in page 313
+2021-09-10 11:23:24 +0700 [INFO]:		Craw data page 313 success
+2021-09-10 11:23:24 +0700 [INFO]:		Start craw data in page 314
+2021-09-10 11:24:35 +0700 [INFO]:		Craw data page 314 success
+2021-09-10 11:24:35 +0700 [INFO]:		Start craw data in page 315
+2021-09-10 11:25:53 +0700 [INFO]:		Craw data page 315 success
+2021-09-10 11:25:53 +0700 [INFO]:		Start craw data in page 316
+2021-09-10 11:27:07 +0700 [INFO]:		Craw data page 316 success
+2021-09-10 11:27:07 +0700 [INFO]:		Start craw data in page 317
+2021-09-10 11:28:16 +0700 [INFO]:		Craw data page 317 success
+2021-09-10 11:28:16 +0700 [INFO]:		Start craw data in page 318
+2021-09-10 11:29:25 +0700 [INFO]:		Craw data page 318 success
+2021-09-10 11:29:25 +0700 [INFO]:		Start craw data in page 319
+2021-09-10 11:30:35 +0700 [INFO]:		Craw data page 319 success
+2021-09-10 11:30:35 +0700 [INFO]:		Start craw data in page 320
+2021-09-10 11:31:44 +0700 [INFO]:		Craw data page 320 success
+2021-09-10 11:31:44 +0700 [INFO]:		Start craw data in page 321
+2021-09-10 11:32:56 +0700 [INFO]:		Craw data page 321 success
+2021-09-10 11:32:56 +0700 [INFO]:		Start craw data in page 322
+2021-09-10 11:34:08 +0700 [INFO]:		Craw data page 322 success
+2021-09-10 11:34:08 +0700 [INFO]:		Start craw data in page 323
+2021-09-10 11:35:19 +0700 [INFO]:		Craw data page 323 success
+2021-09-10 11:35:19 +0700 [INFO]:		Start craw data in page 324
+2021-09-10 11:36:30 +0700 [INFO]:		Craw data page 324 success
+2021-09-10 11:36:30 +0700 [INFO]:		Start craw data in page 325
+2021-09-10 11:37:41 +0700 [INFO]:		Craw data page 325 success
+2021-09-10 11:37:41 +0700 [INFO]:		Start craw data in page 326
+2021-09-10 11:39:17 +0700 [INFO]:		Craw data page 326 success
+2021-09-10 11:39:17 +0700 [INFO]:		Start craw data in page 327
+2021-09-10 11:40:30 +0700 [INFO]:		Craw data page 327 success
+2021-09-10 11:40:30 +0700 [INFO]:		Start craw data in page 328
+2021-09-10 11:41:50 +0700 [INFO]:		Craw data page 328 success
+2021-09-10 11:41:50 +0700 [INFO]:		Start craw data in page 329
+2021-09-10 11:43:04 +0700 [INFO]:		Craw data page 329 success
+2021-09-10 11:43:04 +0700 [INFO]:		Start craw data in page 330
+2021-09-10 11:44:14 +0700 [INFO]:		Craw data page 330 success
+2021-09-10 11:44:14 +0700 [INFO]:		Start craw data in page 331
+2021-09-10 11:45:26 +0700 [INFO]:		Craw data page 331 success
+2021-09-10 11:45:26 +0700 [INFO]:		Start craw data in page 332
+2021-09-10 11:46:35 +0700 [INFO]:		Craw data page 332 success
+2021-09-10 11:46:35 +0700 [INFO]:		Start craw data in page 333
+2021-09-10 11:47:45 +0700 [INFO]:		Craw data page 333 success
+2021-09-10 11:47:45 +0700 [INFO]:		Start craw data in page 334
+2021-09-10 11:48:56 +0700 [INFO]:		Craw data page 334 success
+2021-09-10 11:48:56 +0700 [INFO]:		Start craw data in page 335
+2021-09-10 11:50:09 +0700 [INFO]:		Craw data page 335 success
+2021-09-10 11:50:09 +0700 [INFO]:		Start craw data in page 336
+2021-09-10 11:51:19 +0700 [INFO]:		Craw data page 336 success
+2021-09-10 11:51:19 +0700 [INFO]:		Start craw data in page 337
+2021-09-10 11:52:28 +0700 [INFO]:		Craw data page 337 success
+2021-09-10 11:52:28 +0700 [INFO]:		Start craw data in page 338
+2021-09-10 11:53:37 +0700 [INFO]:		Craw data page 338 success
+2021-09-10 11:53:37 +0700 [INFO]:		Start craw data in page 339
+2021-09-10 11:54:47 +0700 [INFO]:		Craw data page 339 success
+2021-09-10 11:54:47 +0700 [INFO]:		Start craw data in page 340
+2021-09-10 11:55:59 +0700 [INFO]:		Craw data page 340 success
+2021-09-10 11:55:59 +0700 [INFO]:		Start craw data in page 341
+2021-09-10 11:57:23 +0700 [INFO]:		Craw data page 341 success
+2021-09-10 11:57:23 +0700 [INFO]:		Start craw data in page 342
+2021-09-10 11:58:37 +0700 [INFO]:		Craw data page 342 success
+2021-09-10 11:58:37 +0700 [INFO]:		Start craw data in page 343
+2021-09-10 11:59:54 +0700 [INFO]:		Craw data page 343 success
+2021-09-10 11:59:54 +0700 [INFO]:		Start craw data in page 344
+2021-09-10 12:01:10 +0700 [INFO]:		Craw data page 344 success
+2021-09-10 12:01:10 +0700 [INFO]:		Start craw data in page 345
+2021-09-10 12:02:23 +0700 [INFO]:		Craw data page 345 success
+2021-09-10 12:02:23 +0700 [INFO]:		Start craw data in page 346
+2021-09-10 12:03:47 +0700 [INFO]:		Craw data page 346 success
+2021-09-10 12:03:47 +0700 [INFO]:		Start craw data in page 347
+2021-09-10 12:05:00 +0700 [INFO]:		Craw data page 347 success
+2021-09-10 12:05:00 +0700 [INFO]:		Start craw data in page 348
+2021-09-10 12:06:13 +0700 [INFO]:		Craw data page 348 success
+2021-09-10 12:06:13 +0700 [INFO]:		Start craw data in page 349
+2021-09-10 12:07:38 +0700 [INFO]:		Craw data page 349 success
+2021-09-10 12:07:38 +0700 [INFO]:		Start craw data in page 350
+2021-09-10 12:09:13 +0700 [INFO]:		Craw data page 350 success
+2021-09-10 12:09:13 +0700 [INFO]:		Start craw data in page 351
+2021-09-10 12:11:14 +0700 [INFO]:		Craw data page 351 success
+2021-09-10 12:11:14 +0700 [INFO]:		Start craw data in page 352
+2021-09-10 12:13:25 +0700 [INFO]:		Craw data page 352 success
+2021-09-10 12:13:25 +0700 [INFO]:		Start craw data in page 353
+2021-09-10 12:14:55 +0700 [INFO]:		Craw data page 353 success
+2021-09-10 12:14:55 +0700 [INFO]:		Start craw data in page 354
+2021-09-10 12:17:14 +0700 [INFO]:		Craw data page 354 success
+2021-09-10 12:17:14 +0700 [INFO]:		Start craw data in page 355
+2021-09-10 12:18:31 +0700 [INFO]:		Craw data page 355 success
+2021-09-10 12:18:31 +0700 [INFO]:		Start craw data in page 356
+2021-09-10 12:19:47 +0700 [INFO]:		Craw data page 356 success
+2021-09-10 12:19:47 +0700 [INFO]:		Start craw data in page 357
+2021-09-10 12:21:09 +0700 [INFO]:		Craw data page 357 success
+2021-09-10 12:21:09 +0700 [INFO]:		Start craw data in page 358
+2021-09-10 12:22:25 +0700 [INFO]:		Craw data page 358 success
+2021-09-10 12:22:25 +0700 [INFO]:		Start craw data in page 359
+2021-09-10 12:23:40 +0700 [INFO]:		Craw data page 359 success
+2021-09-10 12:23:40 +0700 [INFO]:		Start craw data in page 360
+2021-09-10 12:24:52 +0700 [INFO]:		Craw data page 360 success
+2021-09-10 12:24:52 +0700 [INFO]:		Start craw data in page 361
+2021-09-10 12:26:14 +0700 [INFO]:		Craw data page 361 success
+2021-09-10 12:26:14 +0700 [INFO]:		Start craw data in page 362
+2021-09-10 12:27:30 +0700 [INFO]:		Craw data page 362 success
+2021-09-10 12:27:30 +0700 [INFO]:		Start craw data in page 363
+2021-09-10 12:28:46 +0700 [INFO]:		Craw data page 363 success
+2021-09-10 12:28:46 +0700 [INFO]:		Start craw data in page 364
+2021-09-10 12:30:01 +0700 [INFO]:		Craw data page 364 success
+2021-09-10 12:30:01 +0700 [INFO]:		Start craw data in page 365
+2021-09-10 12:31:21 +0700 [INFO]:		Craw data page 365 success
+2021-09-10 12:31:21 +0700 [INFO]:		Start craw data in page 366
+2021-09-10 12:32:47 +0700 [INFO]:		Craw data page 366 success
+2021-09-10 12:32:47 +0700 [INFO]:		Start craw data in page 367
+2021-09-10 12:34:21 +0700 [INFO]:		Craw data page 367 success
+2021-09-10 12:34:21 +0700 [INFO]:		Start craw data in page 368
+2021-09-10 12:35:37 +0700 [INFO]:		Craw data page 368 success
+2021-09-10 12:35:37 +0700 [INFO]:		Start craw data in page 369
+2021-09-10 12:36:50 +0700 [INFO]:		Craw data page 369 success
+2021-09-10 12:36:50 +0700 [INFO]:		Start craw data in page 370
+2021-09-10 12:38:07 +0700 [INFO]:		Craw data page 370 success
+2021-09-10 12:38:07 +0700 [INFO]:		Start craw data in page 371
+2021-09-10 12:39:31 +0700 [INFO]:		Craw data page 371 success
+2021-09-10 12:39:31 +0700 [INFO]:		Start craw data in page 372
+2021-09-10 12:41:09 +0700 [INFO]:		Craw data page 372 success
+2021-09-10 12:41:09 +0700 [INFO]:		Start craw data in page 373
+2021-09-10 12:42:55 +0700 [INFO]:		Craw data page 373 success
+2021-09-10 12:42:55 +0700 [INFO]:		Start craw data in page 374
+2021-09-10 12:44:18 +0700 [INFO]:		Craw data page 374 success
+2021-09-10 12:44:18 +0700 [INFO]:		Start craw data in page 375
+2021-09-10 12:45:36 +0700 [INFO]:		Craw data page 375 success
+2021-09-10 12:45:36 +0700 [INFO]:		Start craw data in page 376
+2021-09-10 12:47:06 +0700 [INFO]:		Craw data page 376 success
+2021-09-10 12:47:06 +0700 [INFO]:		Start craw data in page 377
+2021-09-10 12:48:41 +0700 [INFO]:		Craw data page 377 success
+2021-09-10 12:48:41 +0700 [INFO]:		Start craw data in page 378
+2021-09-10 12:49:56 +0700 [INFO]:		Craw data page 378 success
+2021-09-10 12:49:56 +0700 [INFO]:		Start craw data in page 379
+2021-09-10 12:51:19 +0700 [INFO]:		Craw data page 379 success
+2021-09-10 12:51:19 +0700 [INFO]:		Start craw data in page 380
+2021-09-10 12:52:37 +0700 [INFO]:		Craw data page 380 success
+2021-09-10 12:52:37 +0700 [INFO]:		Start craw data in page 381
+2021-09-10 12:53:58 +0700 [INFO]:		Craw data page 381 success
+2021-09-10 12:53:58 +0700 [INFO]:		Start craw data in page 382
+2021-09-10 12:55:19 +0700 [INFO]:		Craw data page 382 success
+2021-09-10 12:55:19 +0700 [INFO]:		Start craw data in page 383
+2021-09-10 12:56:49 +0700 [INFO]:		Craw data page 383 success
+2021-09-10 12:56:49 +0700 [INFO]:		Start craw data in page 384
+2021-09-10 12:58:03 +0700 [INFO]:		Craw data page 384 success
+2021-09-10 12:58:03 +0700 [INFO]:		Start craw data in page 385
+2021-09-10 12:59:22 +0700 [INFO]:		Craw data page 385 success
+2021-09-10 12:59:22 +0700 [INFO]:		Start craw data in page 386
+2021-09-10 13:00:38 +0700 [INFO]:		Craw data page 386 success
+2021-09-10 13:00:38 +0700 [INFO]:		Start craw data in page 387
+2021-09-10 13:01:55 +0700 [INFO]:		Craw data page 387 success
+2021-09-10 13:01:55 +0700 [INFO]:		Start craw data in page 388
+2021-09-10 13:03:17 +0700 [INFO]:		Craw data page 388 success
+2021-09-10 13:03:17 +0700 [INFO]:		Start craw data in page 389
+2021-09-10 13:04:33 +0700 [INFO]:		Craw data page 389 success
+2021-09-10 13:04:33 +0700 [INFO]:		Start craw data in page 390
+2021-09-10 13:05:50 +0700 [INFO]:		Craw data page 390 success
+2021-09-10 13:05:50 +0700 [INFO]:		Start craw data in page 391
+2021-09-10 13:06:41 +0700 [INFO]:		Craw data page 391 success
+2021-09-10 13:06:41 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-10 13:06:41 +0700 [INFO]:		Connecting to https://imitsu.jp/100/search/
+2021-09-10 13:06:41 +0700 [INFO]:		Start craw data in page 303
+2021-09-10 13:06:45 +0700 [INFO]:		Craw data page 303 success
+2021-09-10 13:06:45 +0700 [INFO]:		Start craw data in page 304
+2021-09-10 13:06:49 +0700 [INFO]:		Craw data page 304 success
+2021-09-10 13:06:49 +0700 [INFO]:		Start craw data in page 305
+2021-09-10 13:06:53 +0700 [INFO]:		Craw data page 305 success
+2021-09-10 13:06:53 +0700 [INFO]:		Start craw data in page 306
+2021-09-10 13:06:57 +0700 [INFO]:		Craw data page 306 success
+2021-09-10 13:06:57 +0700 [INFO]:		Start craw data in page 307
+2021-09-10 13:07:00 +0700 [INFO]:		Craw data page 307 success
+2021-09-10 13:07:00 +0700 [INFO]:		Start craw data in page 308
+2021-09-10 13:07:04 +0700 [INFO]:		Craw data page 308 success
+2021-09-10 13:07:04 +0700 [INFO]:		Start craw data in page 309
+2021-09-10 13:07:08 +0700 [INFO]:		Craw data page 309 success
+2021-09-10 13:07:08 +0700 [INFO]:		Start craw data in page 310
+2021-09-10 13:07:12 +0700 [INFO]:		Craw data page 310 success
+2021-09-10 13:07:12 +0700 [INFO]:		Start craw data in page 311
+2021-09-10 13:07:17 +0700 [INFO]:		Craw data page 311 success
+2021-09-10 13:07:17 +0700 [INFO]:		Start craw data in page 312
+2021-09-10 13:07:21 +0700 [INFO]:		Craw data page 312 success
+2021-09-10 13:07:21 +0700 [INFO]:		Start craw data in page 313
+2021-09-10 13:07:25 +0700 [INFO]:		Craw data page 313 success
+2021-09-10 13:07:25 +0700 [INFO]:		Start craw data in page 314
+2021-09-10 13:07:29 +0700 [INFO]:		Craw data page 314 success
+2021-09-10 13:07:29 +0700 [INFO]:		Start craw data in page 315
+2021-09-10 13:07:33 +0700 [INFO]:		Craw data page 315 success
+2021-09-10 13:07:33 +0700 [INFO]:		Start craw data in page 316
+2021-09-10 13:07:36 +0700 [INFO]:		Craw data page 316 success
+2021-09-10 13:07:36 +0700 [INFO]:		Start craw data in page 317
+2021-09-10 13:07:40 +0700 [INFO]:		Craw data page 317 success
+2021-09-10 13:07:40 +0700 [INFO]:		Start craw data in page 318
+2021-09-10 13:07:45 +0700 [INFO]:		Craw data page 318 success
+2021-09-10 13:07:45 +0700 [INFO]:		Start craw data in page 319
+2021-09-10 13:07:48 +0700 [INFO]:		Craw data page 319 success
+2021-09-10 13:07:48 +0700 [INFO]:		Start craw data in page 320
+2021-09-10 13:07:52 +0700 [INFO]:		Craw data page 320 success
+2021-09-10 13:07:52 +0700 [INFO]:		Start craw data in page 321
+2021-09-10 13:07:56 +0700 [INFO]:		Craw data page 321 success
+2021-09-10 13:07:56 +0700 [INFO]:		Start craw data in page 322
+2021-09-10 13:08:03 +0700 [INFO]:		Craw data page 322 success
+2021-09-10 13:08:03 +0700 [INFO]:		Start craw data in page 323
+2021-09-10 13:08:08 +0700 [INFO]:		Craw data page 323 success
+2021-09-10 13:08:08 +0700 [INFO]:		Start craw data in page 324
+2021-09-10 13:08:12 +0700 [INFO]:		Craw data page 324 success
+2021-09-10 13:08:12 +0700 [INFO]:		Start craw data in page 325
+2021-09-10 13:08:16 +0700 [INFO]:		Craw data page 325 success
+2021-09-10 13:08:16 +0700 [INFO]:		Start craw data in page 326
+2021-09-10 13:08:21 +0700 [INFO]:		Craw data page 326 success
+2021-09-10 13:08:21 +0700 [INFO]:		Start craw data in page 327
+2021-09-10 13:08:25 +0700 [INFO]:		Craw data page 327 success
+2021-09-10 13:08:25 +0700 [INFO]:		Start craw data in page 328
+2021-09-10 13:08:29 +0700 [INFO]:		Craw data page 328 success
+2021-09-10 13:08:29 +0700 [INFO]:		Start craw data in page 329
+2021-09-10 13:08:33 +0700 [INFO]:		Craw data page 329 success
+2021-09-10 13:08:33 +0700 [INFO]:		Start craw data in page 330
+2021-09-10 13:08:37 +0700 [INFO]:		Craw data page 330 success
+2021-09-10 13:08:37 +0700 [INFO]:		Start craw data in page 331
+2021-09-10 13:08:41 +0700 [INFO]:		Craw data page 331 success
+2021-09-10 13:08:41 +0700 [INFO]:		Start craw data in page 332
+2021-09-10 13:08:45 +0700 [INFO]:		Craw data page 332 success
+2021-09-10 13:08:45 +0700 [INFO]:		Start craw data in page 333
+2021-09-10 13:08:48 +0700 [INFO]:		Craw data page 333 success
+2021-09-10 13:08:48 +0700 [INFO]:		Start craw data in page 334
+2021-09-10 13:08:52 +0700 [INFO]:		Craw data page 334 success
+2021-09-10 13:08:52 +0700 [INFO]:		Start craw data in page 335
+2021-09-10 13:08:56 +0700 [INFO]:		Craw data page 335 success
+2021-09-10 13:08:56 +0700 [INFO]:		Start craw data in page 336
+2021-09-10 13:09:00 +0700 [INFO]:		Craw data page 336 success
+2021-09-10 13:09:00 +0700 [INFO]:		Start craw data in page 337
+2021-09-10 13:09:04 +0700 [INFO]:		Craw data page 337 success
+2021-09-10 13:09:04 +0700 [INFO]:		Start craw data in page 338
+2021-09-10 13:09:12 +0700 [INFO]:		Craw data page 338 success
+2021-09-10 13:09:12 +0700 [INFO]:		Start craw data in page 339
+2021-09-10 13:09:17 +0700 [INFO]:		Craw data page 339 success
+2021-09-10 13:09:17 +0700 [INFO]:		Start craw data in page 340
+2021-09-10 13:09:21 +0700 [INFO]:		Craw data page 340 success
+2021-09-10 13:09:21 +0700 [INFO]:		Start craw data in page 341
+2021-09-10 13:09:25 +0700 [INFO]:		Craw data page 341 success
+2021-09-10 13:09:25 +0700 [INFO]:		Start craw data in page 342
+2021-09-10 13:09:29 +0700 [INFO]:		Craw data page 342 success
+2021-09-10 13:09:29 +0700 [INFO]:		Start craw data in page 343
+2021-09-10 13:09:35 +0700 [INFO]:		Craw data page 343 success
+2021-09-10 13:09:35 +0700 [INFO]:		Start craw data in page 344
+2021-09-10 13:09:41 +0700 [INFO]:		Craw data page 344 success
+2021-09-10 13:09:41 +0700 [INFO]:		Start craw data in page 345
+2021-09-10 13:09:47 +0700 [INFO]:		Craw data page 345 success
+2021-09-10 13:09:47 +0700 [INFO]:		Start craw data in page 346
+2021-09-10 13:09:51 +0700 [INFO]:		Craw data page 346 success
+2021-09-10 13:09:51 +0700 [INFO]:		Start craw data in page 347
+2021-09-10 13:09:55 +0700 [INFO]:		Craw data page 347 success
+2021-09-10 13:09:55 +0700 [INFO]:		Start craw data in page 348
+2021-09-10 13:09:58 +0700 [INFO]:		Craw data page 348 success
+2021-09-10 13:09:58 +0700 [INFO]:		Start craw data in page 349
+2021-09-10 13:10:02 +0700 [INFO]:		Craw data page 349 success
+2021-09-10 13:10:02 +0700 [INFO]:		Start craw data in page 350
+2021-09-10 13:10:06 +0700 [INFO]:		Craw data page 350 success
+2021-09-10 13:10:06 +0700 [INFO]:		Start craw data in page 351
+2021-09-10 13:10:10 +0700 [INFO]:		Craw data page 351 success
+2021-09-10 13:10:10 +0700 [INFO]:		Start craw data in page 352
+2021-09-10 13:10:14 +0700 [INFO]:		Craw data page 352 success
+2021-09-10 13:10:14 +0700 [INFO]:		Start craw data in page 353
+2021-09-10 13:10:18 +0700 [INFO]:		Craw data page 353 success
+2021-09-10 13:10:18 +0700 [INFO]:		Start craw data in page 354
+2021-09-10 13:10:21 +0700 [INFO]:		Craw data page 354 success
+2021-09-10 13:10:21 +0700 [INFO]:		Start craw data in page 355
+2021-09-10 13:10:26 +0700 [INFO]:		Craw data page 355 success
+2021-09-10 13:10:26 +0700 [INFO]:		Start craw data in page 356
+2021-09-10 13:10:29 +0700 [INFO]:		Craw data page 356 success
+2021-09-10 13:10:29 +0700 [INFO]:		Start craw data in page 357
+2021-09-10 13:10:33 +0700 [INFO]:		Craw data page 357 success
+2021-09-10 13:10:33 +0700 [INFO]:		Start craw data in page 358
+2021-09-10 13:10:37 +0700 [INFO]:		Craw data page 358 success
+2021-09-10 13:10:37 +0700 [INFO]:		Start craw data in page 359
+2021-09-10 13:10:41 +0700 [INFO]:		Craw data page 359 success
+2021-09-10 13:10:41 +0700 [INFO]:		Start craw data in page 360
+2021-09-10 13:10:45 +0700 [INFO]:		Craw data page 360 success
+2021-09-10 13:10:45 +0700 [INFO]:		Start craw data in page 361
+2021-09-10 13:10:48 +0700 [INFO]:		Craw data page 361 success
+2021-09-10 13:10:48 +0700 [INFO]:		Start craw data in page 362
+2021-09-10 13:10:52 +0700 [INFO]:		Craw data page 362 success
+2021-09-10 13:10:52 +0700 [INFO]:		Start craw data in page 363
+2021-09-10 13:10:56 +0700 [INFO]:		Craw data page 363 success
+2021-09-10 13:10:56 +0700 [INFO]:		Start craw data in page 364
+2021-09-10 13:11:00 +0700 [INFO]:		Craw data page 364 success
+2021-09-10 13:11:00 +0700 [INFO]:		Start craw data in page 365
+2021-09-10 13:11:04 +0700 [INFO]:		Craw data page 365 success
+2021-09-10 13:11:04 +0700 [INFO]:		Start craw data in page 366
+2021-09-10 13:11:08 +0700 [INFO]:		Craw data page 366 success
+2021-09-10 13:11:08 +0700 [INFO]:		Start craw data in page 367
+2021-09-10 13:11:13 +0700 [INFO]:		Craw data page 367 success
+2021-09-10 13:11:13 +0700 [INFO]:		Start craw data in page 368
+2021-09-10 13:11:17 +0700 [INFO]:		Craw data page 368 success
+2021-09-10 13:11:17 +0700 [INFO]:		Start craw data in page 369
+2021-09-10 13:11:21 +0700 [INFO]:		Craw data page 369 success
+2021-09-10 13:11:21 +0700 [INFO]:		Start craw data in page 370
+2021-09-10 13:11:24 +0700 [INFO]:		Craw data page 370 success
+2021-09-10 13:11:24 +0700 [INFO]:		Start craw data in page 371
+2021-09-10 13:11:28 +0700 [INFO]:		Craw data page 371 success
+2021-09-10 13:11:28 +0700 [INFO]:		Start craw data in page 372
+2021-09-10 13:11:33 +0700 [INFO]:		Craw data page 372 success
+2021-09-10 13:11:33 +0700 [INFO]:		Start craw data in page 373
+2021-09-10 13:11:37 +0700 [INFO]:		Craw data page 373 success
+2021-09-10 13:11:37 +0700 [INFO]:		Start craw data in page 374
+2021-09-10 13:11:40 +0700 [INFO]:		Craw data page 374 success
+2021-09-10 13:11:40 +0700 [INFO]:		Start craw data in page 375
+2021-09-10 13:11:46 +0700 [INFO]:		Craw data page 375 success
+2021-09-10 13:11:46 +0700 [INFO]:		Start craw data in page 376
+2021-09-10 13:11:50 +0700 [INFO]:		Craw data page 376 success
+2021-09-10 13:11:50 +0700 [INFO]:		Start craw data in page 377
+2021-09-10 13:11:54 +0700 [INFO]:		Craw data page 377 success
+2021-09-10 13:11:54 +0700 [INFO]:		Start craw data in page 378
+2021-09-10 13:11:58 +0700 [INFO]:		Craw data page 378 success
+2021-09-10 13:11:58 +0700 [INFO]:		Start craw data in page 379
+2021-09-10 13:12:01 +0700 [INFO]:		Craw data page 379 success
+2021-09-10 13:12:01 +0700 [INFO]:		Start craw data in page 380
+2021-09-10 13:12:06 +0700 [INFO]:		Craw data page 380 success
+2021-09-10 13:12:06 +0700 [INFO]:		Start craw data in page 381
+2021-09-10 13:12:09 +0700 [INFO]:		Craw data page 381 success
+2021-09-10 13:12:09 +0700 [INFO]:		Start craw data in page 382
+2021-09-10 13:12:13 +0700 [INFO]:		Craw data page 382 success
+2021-09-10 13:12:13 +0700 [INFO]:		Start craw data in page 383
+2021-09-10 13:12:17 +0700 [INFO]:		Craw data page 383 success
+2021-09-10 13:12:17 +0700 [INFO]:		Start craw data in page 384
+2021-09-10 13:12:21 +0700 [INFO]:		Craw data page 384 success
+2021-09-10 13:12:21 +0700 [INFO]:		Start craw data in page 385
+2021-09-10 13:12:25 +0700 [INFO]:		Craw data page 385 success
+2021-09-10 13:12:25 +0700 [INFO]:		Start craw data in page 386
+2021-09-10 13:12:28 +0700 [INFO]:		Craw data page 386 success
+2021-09-10 13:12:28 +0700 [INFO]:		Start craw data in page 387
+2021-09-10 13:12:32 +0700 [INFO]:		Craw data page 387 success
+2021-09-10 13:12:32 +0700 [INFO]:		Start craw data in page 388
+2021-09-10 13:12:36 +0700 [INFO]:		Craw data page 388 success
+2021-09-10 13:12:36 +0700 [INFO]:		Start craw data in page 389
+2021-09-10 13:12:40 +0700 [INFO]:		Craw data page 389 success
+2021-09-10 13:12:40 +0700 [INFO]:		Start craw data in page 390
+2021-09-10 13:12:44 +0700 [INFO]:		Craw data page 390 success
+2021-09-10 13:12:44 +0700 [INFO]:		Start craw data in page 391
+2021-09-10 13:15:33 +0700 [INFO]:		Init driver
+2021-09-10 13:35:00 +0700 [INFO]:		Init driver
+2021-09-10 13:35:32 +0700 [INFO]:		Init driver
+2021-09-10 13:36:18 +0700 [INFO]:		Init driver
+2021-09-10 13:38:00 +0700 [INFO]:		Init driver
+2021-09-10 13:38:17 +0700 [INFO]:		Init driver
+2021-09-10 13:38:40 +0700 [INFO]:		Init driver
+2021-09-10 13:38:42 +0700 [INFO]:		
+2021-09-10 13:39:12 +0700 [INFO]:		Init driver
+2021-09-10 13:39:13 +0700 [INFO]:		index
+2021-09-10 13:39:25 +0700 [INFO]:		Init driver
+2021-09-10 13:39:26 +0700 [INFO]:		index
+2021-09-10 13:39:26 +0700 [INFO]:		index2
+2021-09-10 13:39:39 +0700 [INFO]:		Init driver
+2021-09-10 13:39:41 +0700 [INFO]:		index
+2021-09-10 13:39:41 +0700 [INFO]:		index2 
+2021-09-10 13:39:59 +0700 [INFO]:		Init driver
+2021-09-10 13:40:00 +0700 [INFO]:		index
+2021-09-10 13:40:00 +0700 [INFO]:		index2 - 
+2021-09-10 13:41:39 +0700 [INFO]:		Init driver
+2021-09-10 13:41:40 +0700 [INFO]:		index
+2021-09-10 13:41:40 +0700 [INFO]:		index2 - 
+2021-09-10 13:43:10 +0700 [INFO]:		Init driver
+2021-09-10 13:43:12 +0700 [INFO]:		index
+2021-09-10 13:43:12 +0700 [INFO]:		namePageCrawling - 100
+2021-09-10 13:43:12 +0700 [INFO]:		index2 - 
+2021-09-10 13:43:37 +0700 [INFO]:		Init driver
+2021-09-10 13:43:39 +0700 [INFO]:		index
+2021-09-10 13:43:39 +0700 [INFO]:		namePageCrawling 1 - 100
+2021-09-10 13:43:39 +0700 [INFO]:		namePageCrawling - 100
+2021-09-10 13:43:39 +0700 [INFO]:		index2 - 
+2021-09-10 13:44:24 +0700 [INFO]:		Init driver
+2021-09-10 13:44:25 +0700 [INFO]:		index
+2021-09-10 13:44:25 +0700 [INFO]:		namePageCrawling 1 - ct-web-system
+2021-09-10 13:44:25 +0700 [INFO]:		namePageCrawling - ct-web-system
+2021-09-10 13:44:25 +0700 [INFO]:		index2 - 0
+2021-09-10 13:44:55 +0700 [INFO]:		Init driver
+2021-09-10 13:44:56 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 13:44:56 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-10 13:44:56 +0700 [INFO]:		Connecting to https://imitsu.jp/100/search/
+2021-09-10 13:44:56 +0700 [INFO]:		Start craw data in page 392
+2021-09-10 13:45:02 +0700 [INFO]:		Craw data page 392 success
+2021-09-10 13:45:02 +0700 [INFO]:		Start craw data in page 393
+2021-09-10 13:56:53 +0700 [INFO]:		Init driver
+2021-09-10 13:56:54 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-web-system/search/
+2021-09-10 13:56:54 +0700 [INFO]:		Craw data https://imitsu.jp/ct-web-system success
+2021-09-10 13:56:54 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 13:56:54 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-10 13:56:54 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-10 13:56:54 +0700 [INFO]:		Start craw data in page 392
+2021-09-10 14:09:00 +0700 [INFO]:		Init driver
+2021-09-10 14:09:01 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-10 14:09:01 +0700 [INFO]:		Start craw data in page 392
+2021-09-10 14:10:27 +0700 [INFO]:		Init driver
+2021-09-10 14:10:28 +0700 [INFO]:		index2 - 0
+2021-09-10 14:11:17 +0700 [INFO]:		Init driver
+2021-09-10 14:11:19 +0700 [INFO]:		index2 - 0
+2021-09-10 14:11:19 +0700 [INFO]:		startPage - 392
+2021-09-10 14:54:55 +0700 [INFO]:		Init driver
+2021-09-10 14:54:56 +0700 [INFO]:		index2 - 0
+2021-09-10 14:54:56 +0700 [INFO]:		numPageCrawled - 391
+2021-09-10 15:03:58 +0700 [INFO]:		Init driver
+2021-09-10 15:03:59 +0700 [INFO]:		index2 - 0
+2021-09-10 15:03:59 +0700 [INFO]:		numPageCrawled - 391
+2021-09-10 15:03:59 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 15:03:59 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 15:04:35 +0700 [INFO]:		Init driver
+2021-09-10 15:04:36 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-app-developer/search/
+2021-09-10 15:04:36 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 15:06:05 +0700 [INFO]:		Craw data page 1 success
+2021-09-10 15:06:05 +0700 [INFO]:		Start craw data in page 2
+2021-09-10 15:07:15 +0700 [INFO]:		Craw data page 2 success
+2021-09-10 15:07:15 +0700 [INFO]:		Start craw data in page 3
+2021-09-10 15:08:24 +0700 [INFO]:		Craw data page 3 success
+2021-09-10 15:08:24 +0700 [INFO]:		Start craw data in page 4
+2021-09-10 15:09:39 +0700 [INFO]:		Craw data page 4 success
+2021-09-10 15:09:39 +0700 [INFO]:		Start craw data in page 5
+2021-09-10 15:10:49 +0700 [INFO]:		Craw data page 5 success
+2021-09-10 15:10:49 +0700 [INFO]:		Start craw data in page 6
+2021-09-10 15:12:08 +0700 [INFO]:		Craw data page 6 success
+2021-09-10 15:12:08 +0700 [INFO]:		Start craw data in page 7
+2021-09-10 15:13:34 +0700 [INFO]:		Craw data page 7 success
+2021-09-10 15:13:34 +0700 [INFO]:		Start craw data in page 8
+2021-09-10 15:14:44 +0700 [INFO]:		Craw data page 8 success
+2021-09-10 15:14:44 +0700 [INFO]:		Start craw data in page 9
+2021-09-10 15:15:58 +0700 [INFO]:		Craw data page 9 success
+2021-09-10 15:15:58 +0700 [INFO]:		Start craw data in page 10
+2021-09-10 15:18:02 +0700 [INFO]:		Craw data page 10 success
+2021-09-10 15:18:02 +0700 [INFO]:		Start craw data in page 11
+2021-09-10 15:19:34 +0700 [INFO]:		Craw data page 11 success
+2021-09-10 15:19:34 +0700 [INFO]:		Start craw data in page 12
+2021-09-10 15:21:28 +0700 [INFO]:		Craw data page 12 success
+2021-09-10 15:21:28 +0700 [INFO]:		Start craw data in page 13
+2021-09-10 15:22:43 +0700 [INFO]:		Craw data page 13 success
+2021-09-10 15:22:43 +0700 [INFO]:		Start craw data in page 14
+2021-09-10 15:23:58 +0700 [INFO]:		Craw data page 14 success
+2021-09-10 15:23:58 +0700 [INFO]:		Start craw data in page 15
+2021-09-10 15:25:14 +0700 [INFO]:		Craw data page 15 success
+2021-09-10 15:25:14 +0700 [INFO]:		Start craw data in page 16
+2021-09-10 15:26:23 +0700 [INFO]:		Craw data page 16 success
+2021-09-10 15:26:23 +0700 [INFO]:		Start craw data in page 17
+2021-09-10 15:27:33 +0700 [INFO]:		Craw data page 17 success
+2021-09-10 15:27:33 +0700 [INFO]:		Start craw data in page 18
+2021-09-10 15:28:44 +0700 [INFO]:		Craw data page 18 success
+2021-09-10 15:28:44 +0700 [INFO]:		Start craw data in page 19
+2021-09-10 15:29:55 +0700 [INFO]:		Craw data page 19 success
+2021-09-10 15:29:55 +0700 [INFO]:		Start craw data in page 20
+2021-09-10 15:31:05 +0700 [INFO]:		Craw data page 20 success
+2021-09-10 15:31:05 +0700 [INFO]:		Start craw data in page 21
+2021-09-10 15:32:14 +0700 [INFO]:		Craw data page 21 success
+2021-09-10 15:32:14 +0700 [INFO]:		Start craw data in page 22
+2021-09-10 15:33:24 +0700 [INFO]:		Craw data page 22 success
+2021-09-10 15:33:24 +0700 [INFO]:		Start craw data in page 23
+2021-09-10 15:34:33 +0700 [INFO]:		Craw data page 23 success
+2021-09-10 15:34:33 +0700 [INFO]:		Start craw data in page 24
+2021-09-10 15:36:08 +0700 [INFO]:		Craw data page 24 success
+2021-09-10 15:36:08 +0700 [INFO]:		Start craw data in page 25
+2021-09-10 15:37:20 +0700 [INFO]:		Craw data page 25 success
+2021-09-10 15:37:20 +0700 [INFO]:		Start craw data in page 26
+2021-09-10 15:38:31 +0700 [INFO]:		Craw data page 26 success
+2021-09-10 15:38:31 +0700 [INFO]:		Start craw data in page 27
+2021-09-10 15:39:45 +0700 [INFO]:		Craw data page 27 success
+2021-09-10 15:39:45 +0700 [INFO]:		Start craw data in page 28
+2021-09-10 15:40:56 +0700 [INFO]:		Craw data page 28 success
+2021-09-10 15:40:56 +0700 [INFO]:		Start craw data in page 29
+2021-09-10 15:42:07 +0700 [INFO]:		Craw data page 29 success
+2021-09-10 15:42:07 +0700 [INFO]:		Start craw data in page 30
+2021-09-10 15:43:20 +0700 [INFO]:		Craw data page 30 success
+2021-09-10 15:43:20 +0700 [INFO]:		Start craw data in page 31
+2021-09-10 15:44:32 +0700 [INFO]:		Craw data page 31 success
+2021-09-10 15:44:32 +0700 [INFO]:		Start craw data in page 32
+2021-09-10 15:45:50 +0700 [INFO]:		Craw data page 32 success
+2021-09-10 15:45:50 +0700 [INFO]:		Start craw data in page 33
+2021-09-10 15:47:03 +0700 [INFO]:		Craw data page 33 success
+2021-09-10 15:47:03 +0700 [INFO]:		Start craw data in page 34
+2021-09-10 15:48:14 +0700 [INFO]:		Craw data page 34 success
+2021-09-10 15:48:14 +0700 [INFO]:		Start craw data in page 35
+2021-09-10 15:49:26 +0700 [INFO]:		Craw data page 35 success
+2021-09-10 15:49:26 +0700 [INFO]:		Start craw data in page 36
+2021-09-10 15:50:36 +0700 [INFO]:		Craw data page 36 success
+2021-09-10 15:50:36 +0700 [INFO]:		Start craw data in page 37
+2021-09-10 15:51:45 +0700 [INFO]:		Craw data page 37 success
+2021-09-10 15:51:45 +0700 [INFO]:		Start craw data in page 38
+2021-09-10 15:52:54 +0700 [INFO]:		Craw data page 38 success
+2021-09-10 15:52:54 +0700 [INFO]:		Start craw data in page 39
+2021-09-10 15:54:04 +0700 [INFO]:		Craw data page 39 success
+2021-09-10 15:54:04 +0700 [INFO]:		Start craw data in page 40
+2021-09-10 15:55:24 +0700 [INFO]:		Craw data page 40 success
+2021-09-10 15:55:24 +0700 [INFO]:		Start craw data in page 41
+2021-09-10 15:56:38 +0700 [INFO]:		Craw data page 41 success
+2021-09-10 15:56:38 +0700 [INFO]:		Start craw data in page 42
+2021-09-10 15:57:51 +0700 [INFO]:		Craw data page 42 success
+2021-09-10 15:57:51 +0700 [INFO]:		Start craw data in page 43
+2021-09-10 15:59:02 +0700 [INFO]:		Craw data page 43 success
+2021-09-10 15:59:02 +0700 [INFO]:		Start craw data in page 44
+2021-09-10 16:00:18 +0700 [INFO]:		Craw data page 44 success
+2021-09-10 16:00:18 +0700 [INFO]:		Start craw data in page 45
+2021-09-10 16:01:32 +0700 [INFO]:		Craw data page 45 success
+2021-09-10 16:01:32 +0700 [INFO]:		Start craw data in page 46
+2021-09-10 16:03:02 +0700 [INFO]:		Craw data page 46 success
+2021-09-10 16:03:02 +0700 [INFO]:		Start craw data in page 47
+2021-09-10 16:04:18 +0700 [INFO]:		Craw data page 47 success
+2021-09-10 16:04:18 +0700 [INFO]:		Start craw data in page 48
+2021-09-10 16:05:33 +0700 [INFO]:		Craw data page 48 success
+2021-09-10 16:05:33 +0700 [INFO]:		Start craw data in page 49
+2021-09-10 16:06:47 +0700 [INFO]:		Craw data page 49 success
+2021-09-10 16:06:47 +0700 [INFO]:		Start craw data in page 50
+2021-09-10 16:07:58 +0700 [INFO]:		Craw data page 50 success
+2021-09-10 16:07:58 +0700 [INFO]:		Start craw data in page 51
+2021-09-10 16:09:12 +0700 [INFO]:		Craw data page 51 success
+2021-09-10 16:09:12 +0700 [INFO]:		Start craw data in page 52
+2021-09-10 16:10:33 +0700 [INFO]:		Craw data page 52 success
+2021-09-10 16:10:33 +0700 [INFO]:		Start craw data in page 53
+2021-09-10 16:11:46 +0700 [INFO]:		Craw data page 53 success
+2021-09-10 16:11:46 +0700 [INFO]:		Start craw data in page 54
+2021-09-10 16:13:00 +0700 [INFO]:		Craw data page 54 success
+2021-09-10 16:13:00 +0700 [INFO]:		Start craw data in page 55
+2021-09-10 16:14:11 +0700 [INFO]:		Craw data page 55 success
+2021-09-10 16:14:11 +0700 [INFO]:		Start craw data in page 56
+2021-09-10 16:15:22 +0700 [INFO]:		Craw data page 56 success
+2021-09-10 16:15:22 +0700 [INFO]:		Start craw data in page 57
+2021-09-10 16:16:33 +0700 [INFO]:		Craw data page 57 success
+2021-09-10 16:16:33 +0700 [INFO]:		Start craw data in page 58
+2021-09-10 16:17:43 +0700 [INFO]:		Craw data page 58 success
+2021-09-10 16:17:43 +0700 [INFO]:		Start craw data in page 59
+2021-09-10 16:18:56 +0700 [INFO]:		Craw data page 59 success
+2021-09-10 16:18:56 +0700 [INFO]:		Start craw data in page 60
+2021-09-10 16:20:06 +0700 [INFO]:		Craw data page 60 success
+2021-09-10 16:20:06 +0700 [INFO]:		Start craw data in page 61
+2021-09-10 16:21:15 +0700 [INFO]:		Craw data page 61 success
+2021-09-10 16:21:15 +0700 [INFO]:		Start craw data in page 62
+2021-09-10 16:22:28 +0700 [INFO]:		Craw data page 62 success
+2021-09-10 16:22:28 +0700 [INFO]:		Start craw data in page 63
+2021-09-10 16:23:37 +0700 [INFO]:		Craw data page 63 success
+2021-09-10 16:23:37 +0700 [INFO]:		Start craw data in page 64
+2021-09-10 16:24:47 +0700 [INFO]:		Craw data page 64 success
+2021-09-10 16:24:47 +0700 [INFO]:		Start craw data in page 65
+2021-09-10 16:25:56 +0700 [INFO]:		Craw data page 65 success
+2021-09-10 16:25:56 +0700 [INFO]:		Start craw data in page 66
+2021-09-10 16:27:06 +0700 [INFO]:		Craw data page 66 success
+2021-09-10 16:27:06 +0700 [INFO]:		Start craw data in page 67
+2021-09-10 16:28:16 +0700 [INFO]:		Craw data page 67 success
+2021-09-10 16:28:16 +0700 [INFO]:		Start craw data in page 68
+2021-09-10 16:29:34 +0700 [INFO]:		Craw data page 68 success
+2021-09-10 16:29:34 +0700 [INFO]:		Start craw data in page 69
+2021-09-10 16:30:47 +0700 [INFO]:		Craw data page 69 success
+2021-09-10 16:30:47 +0700 [INFO]:		Start craw data in page 70
+2021-09-10 16:32:05 +0700 [INFO]:		Craw data page 70 success
+2021-09-10 16:32:05 +0700 [INFO]:		Start craw data in page 71
+2021-09-10 16:33:24 +0700 [INFO]:		Craw data page 71 success
+2021-09-10 16:33:24 +0700 [INFO]:		Start craw data in page 72
+2021-09-10 16:34:35 +0700 [INFO]:		Craw data page 72 success
+2021-09-10 16:34:35 +0700 [INFO]:		Start craw data in page 73
+2021-09-10 16:35:48 +0700 [INFO]:		Craw data page 73 success
+2021-09-10 16:35:48 +0700 [INFO]:		Start craw data in page 74
+2021-09-10 16:36:56 +0700 [INFO]:		Craw data page 74 success
+2021-09-10 16:36:56 +0700 [INFO]:		Start craw data in page 75
+2021-09-10 16:38:25 +0700 [INFO]:		Craw data page 75 success
+2021-09-10 16:38:25 +0700 [INFO]:		Start craw data in page 76
+2021-09-10 16:39:35 +0700 [INFO]:		Craw data page 76 success
+2021-09-10 16:39:35 +0700 [INFO]:		Start craw data in page 77
+2021-09-10 16:40:49 +0700 [INFO]:		Craw data page 77 success
+2021-09-10 16:40:49 +0700 [INFO]:		Start craw data in page 78
+2021-09-10 16:42:02 +0700 [INFO]:		Craw data page 78 success
+2021-09-10 16:42:02 +0700 [INFO]:		Start craw data in page 79
+2021-09-10 16:43:13 +0700 [INFO]:		Craw data page 79 success
+2021-09-10 16:43:13 +0700 [INFO]:		Start craw data in page 80
+2021-09-10 16:44:25 +0700 [INFO]:		Craw data page 80 success
+2021-09-10 16:44:25 +0700 [INFO]:		Start craw data in page 81
+2021-09-10 16:45:36 +0700 [INFO]:		Craw data page 81 success
+2021-09-10 16:45:36 +0700 [INFO]:		Start craw data in page 82
+2021-09-10 16:47:03 +0700 [INFO]:		Craw data page 82 success
+2021-09-10 16:47:03 +0700 [INFO]:		Start craw data in page 83
+2021-09-10 16:48:45 +0700 [INFO]:		Craw data page 83 success
+2021-09-10 16:48:45 +0700 [INFO]:		Start craw data in page 84
+2021-09-10 16:50:01 +0700 [INFO]:		Craw data page 84 success
+2021-09-10 16:50:01 +0700 [INFO]:		Start craw data in page 85
+2021-09-10 16:51:11 +0700 [INFO]:		Craw data page 85 success
+2021-09-10 16:51:11 +0700 [INFO]:		Start craw data in page 86
+2021-09-10 16:52:22 +0700 [INFO]:		Craw data page 86 success
+2021-09-10 16:52:22 +0700 [INFO]:		Start craw data in page 87
+2021-09-10 16:53:34 +0700 [INFO]:		Craw data page 87 success
+2021-09-10 16:53:34 +0700 [INFO]:		Start craw data in page 88
+2021-09-10 16:54:46 +0700 [INFO]:		Craw data page 88 success
+2021-09-10 16:54:46 +0700 [INFO]:		Start craw data in page 89
+2021-09-10 16:56:05 +0700 [INFO]:		Craw data page 89 success
+2021-09-10 16:56:05 +0700 [INFO]:		Start craw data in page 90
+2021-09-10 16:57:23 +0700 [INFO]:		Craw data page 90 success
+2021-09-10 16:57:23 +0700 [INFO]:		Start craw data in page 91
+2021-09-10 16:58:37 +0700 [INFO]:		Craw data page 91 success
+2021-09-10 16:58:37 +0700 [INFO]:		Start craw data in page 92
+2021-09-10 16:59:53 +0700 [INFO]:		Craw data page 92 success
+2021-09-10 16:59:53 +0700 [INFO]:		Start craw data in page 93
+2021-09-10 17:01:09 +0700 [INFO]:		Craw data page 93 success
+2021-09-10 17:01:09 +0700 [INFO]:		Start craw data in page 94
+2021-09-10 17:02:24 +0700 [INFO]:		Craw data page 94 success
+2021-09-10 17:02:24 +0700 [INFO]:		Start craw data in page 95
+2021-09-10 17:03:41 +0700 [INFO]:		Craw data page 95 success
+2021-09-10 17:03:41 +0700 [INFO]:		Start craw data in page 96
+2021-09-10 17:04:53 +0700 [INFO]:		Craw data page 96 success
+2021-09-10 17:04:53 +0700 [INFO]:		Start craw data in page 97
+2021-09-10 17:06:03 +0700 [INFO]:		Craw data page 97 success
+2021-09-10 17:06:03 +0700 [INFO]:		Start craw data in page 98
+2021-09-10 17:07:15 +0700 [INFO]:		Craw data page 98 success
+2021-09-10 17:07:15 +0700 [INFO]:		Start craw data in page 99
+2021-09-10 17:08:26 +0700 [INFO]:		Craw data page 99 success
+2021-09-10 17:08:26 +0700 [INFO]:		Start craw data in page 100
+2021-09-10 17:09:26 +0700 [INFO]:		Craw data page 100 success
+2021-09-10 17:09:26 +0700 [INFO]:		Craw data https://imitsu.jp/ct-app-developer success
+2021-09-10 17:09:26 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-10 17:09:26 +0700 [INFO]:		Start craw data in page 1
+2021-09-10 17:11:06 +0700 [INFO]:		Craw data page 1 success
+2021-09-10 17:11:06 +0700 [INFO]:		Start craw data in page 2
+2021-09-10 17:12:25 +0700 [INFO]:		Craw data page 2 success
+2021-09-10 17:12:25 +0700 [INFO]:		Start craw data in page 3
+2021-09-10 17:13:38 +0700 [INFO]:		Craw data page 3 success
+2021-09-10 17:13:38 +0700 [INFO]:		Start craw data in page 4
+2021-09-10 17:14:55 +0700 [INFO]:		Craw data page 4 success
+2021-09-10 17:14:55 +0700 [INFO]:		Start craw data in page 5
+2021-09-10 17:16:19 +0700 [INFO]:		Craw data page 5 success
+2021-09-10 17:16:19 +0700 [INFO]:		Start craw data in page 6
+2021-09-10 17:17:38 +0700 [INFO]:		Craw data page 6 success
+2021-09-10 17:17:38 +0700 [INFO]:		Start craw data in page 7
+2021-09-10 17:19:10 +0700 [INFO]:		Craw data page 7 success
+2021-09-10 17:19:10 +0700 [INFO]:		Start craw data in page 8
+2021-09-10 17:20:28 +0700 [INFO]:		Craw data page 8 success
+2021-09-10 17:20:28 +0700 [INFO]:		Start craw data in page 9
+2021-09-10 17:21:42 +0700 [INFO]:		Craw data page 9 success
+2021-09-10 17:21:42 +0700 [INFO]:		Start craw data in page 10
+2021-09-10 17:22:55 +0700 [INFO]:		Craw data page 10 success
+2021-09-10 17:22:55 +0700 [INFO]:		Start craw data in page 11
+2021-09-10 17:24:13 +0700 [INFO]:		Craw data page 11 success
+2021-09-10 17:24:13 +0700 [INFO]:		Start craw data in page 12
+2021-09-10 17:25:27 +0700 [INFO]:		Craw data page 12 success
+2021-09-10 17:25:27 +0700 [INFO]:		Start craw data in page 13
+2021-09-10 17:26:47 +0700 [INFO]:		Craw data page 13 success
+2021-09-10 17:26:47 +0700 [INFO]:		Start craw data in page 14
+2021-09-10 17:27:59 +0700 [INFO]:		Craw data page 14 success
+2021-09-10 17:27:59 +0700 [INFO]:		Start craw data in page 15
+2021-09-10 17:29:35 +0700 [INFO]:		Craw data page 15 success
+2021-09-10 17:29:35 +0700 [INFO]:		Start craw data in page 16
+2021-09-10 17:31:12 +0700 [INFO]:		Craw data page 16 success
+2021-09-10 17:31:12 +0700 [INFO]:		Start craw data in page 17
+2021-09-10 17:32:49 +0700 [INFO]:		Craw data page 17 success
+2021-09-10 17:32:49 +0700 [INFO]:		Start craw data in page 18
+2021-09-10 17:34:37 +0700 [INFO]:		Craw data page 18 success
+2021-09-10 17:34:37 +0700 [INFO]:		Start craw data in page 19
+2021-09-10 17:35:50 +0700 [INFO]:		Craw data page 19 success
+2021-09-10 17:35:50 +0700 [INFO]:		Start craw data in page 20
+2021-09-10 17:37:02 +0700 [INFO]:		Craw data page 20 success
+2021-09-10 17:37:02 +0700 [INFO]:		Start craw data in page 21
+2021-09-10 17:38:14 +0700 [INFO]:		Craw data page 21 success
+2021-09-10 17:38:14 +0700 [INFO]:		Start craw data in page 22
+2021-09-10 17:39:30 +0700 [INFO]:		Craw data page 22 success
+2021-09-10 17:39:30 +0700 [INFO]:		Start craw data in page 23
+2021-09-10 17:40:43 +0700 [INFO]:		Craw data page 23 success
+2021-09-10 17:40:43 +0700 [INFO]:		Start craw data in page 24
+2021-09-10 17:41:56 +0700 [INFO]:		Craw data page 24 success
+2021-09-10 17:41:56 +0700 [INFO]:		Start craw data in page 25
+2021-09-10 17:43:07 +0700 [INFO]:		Craw data page 25 success
+2021-09-10 17:43:07 +0700 [INFO]:		Start craw data in page 26
+2021-09-10 17:44:33 +0700 [INFO]:		Craw data page 26 success
+2021-09-10 17:44:33 +0700 [INFO]:		Start craw data in page 27
+2021-09-10 17:45:53 +0700 [INFO]:		Craw data page 27 success
+2021-09-10 17:45:53 +0700 [INFO]:		Start craw data in page 28
+2021-09-10 17:47:18 +0700 [INFO]:		Craw data page 28 success
+2021-09-10 17:47:18 +0700 [INFO]:		Start craw data in page 29
+2021-09-10 17:48:46 +0700 [INFO]:		Craw data page 29 success
+2021-09-10 17:48:46 +0700 [INFO]:		Start craw data in page 30
+2021-09-10 17:50:03 +0700 [INFO]:		Craw data page 30 success
+2021-09-10 17:50:03 +0700 [INFO]:		Start craw data in page 31
+2021-09-10 17:51:16 +0700 [INFO]:		Craw data page 31 success
+2021-09-10 17:51:16 +0700 [INFO]:		Start craw data in page 32
+2021-09-10 17:52:33 +0700 [INFO]:		Craw data page 32 success
+2021-09-10 17:52:33 +0700 [INFO]:		Start craw data in page 33
+2021-09-10 17:53:53 +0700 [INFO]:		Craw data page 33 success
+2021-09-10 17:53:53 +0700 [INFO]:		Start craw data in page 34
+2021-09-10 17:55:07 +0700 [INFO]:		Craw data page 34 success
+2021-09-10 17:55:07 +0700 [INFO]:		Start craw data in page 35
+2021-09-10 17:56:31 +0700 [INFO]:		Craw data page 35 success
+2021-09-10 17:56:31 +0700 [INFO]:		Start craw data in page 36
+2021-09-10 17:57:46 +0700 [INFO]:		Craw data page 36 success
+2021-09-10 17:57:46 +0700 [INFO]:		Start craw data in page 37
+2021-09-10 17:59:00 +0700 [INFO]:		Craw data page 37 success
+2021-09-10 17:59:00 +0700 [INFO]:		Start craw data in page 38
+2021-09-10 18:00:13 +0700 [INFO]:		Craw data page 38 success
+2021-09-10 18:00:13 +0700 [INFO]:		Start craw data in page 39
+2021-09-10 18:01:28 +0700 [INFO]:		Craw data page 39 success
+2021-09-10 18:01:28 +0700 [INFO]:		Start craw data in page 40
+2021-09-10 18:02:48 +0700 [INFO]:		Craw data page 40 success
+2021-09-10 18:02:48 +0700 [INFO]:		Start craw data in page 41
+2021-09-10 18:04:07 +0700 [INFO]:		Craw data page 41 success
+2021-09-10 18:04:07 +0700 [INFO]:		Start craw data in page 42
+2021-09-10 18:05:19 +0700 [INFO]:		Craw data page 42 success
+2021-09-10 18:05:19 +0700 [INFO]:		Start craw data in page 43
+2021-09-10 18:06:48 +0700 [INFO]:		Craw data page 43 success
+2021-09-10 18:06:48 +0700 [INFO]:		Start craw data in page 44
+2021-09-10 18:08:06 +0700 [INFO]:		Craw data page 44 success
+2021-09-10 18:08:06 +0700 [INFO]:		Start craw data in page 45
+2021-09-10 18:09:22 +0700 [INFO]:		Craw data page 45 success
+2021-09-10 18:09:22 +0700 [INFO]:		Start craw data in page 46
+2021-09-10 18:10:42 +0700 [INFO]:		Craw data page 46 success
+2021-09-10 18:10:42 +0700 [INFO]:		Start craw data in page 47
+2021-09-10 18:12:08 +0700 [INFO]:		Craw data page 47 success
+2021-09-10 18:12:08 +0700 [INFO]:		Start craw data in page 48
+2021-09-10 18:13:23 +0700 [INFO]:		Craw data page 48 success
+2021-09-10 18:13:23 +0700 [INFO]:		Start craw data in page 49
+2021-09-10 18:14:37 +0700 [INFO]:		Craw data page 49 success
+2021-09-10 18:14:37 +0700 [INFO]:		Start craw data in page 50
+2021-09-10 18:15:50 +0700 [INFO]:		Craw data page 50 success
+2021-09-10 18:15:50 +0700 [INFO]:		Start craw data in page 51
+2021-09-10 18:17:03 +0700 [INFO]:		Craw data page 51 success
+2021-09-10 18:17:03 +0700 [INFO]:		Start craw data in page 52
+2021-09-10 18:18:14 +0700 [INFO]:		Craw data page 52 success
+2021-09-10 18:18:14 +0700 [INFO]:		Start craw data in page 53
+2021-09-10 18:19:30 +0700 [INFO]:		Craw data page 53 success
+2021-09-10 18:19:30 +0700 [INFO]:		Start craw data in page 54
+2021-09-10 18:20:45 +0700 [INFO]:		Craw data page 54 success
+2021-09-10 18:20:45 +0700 [INFO]:		Start craw data in page 55
+2021-09-10 18:21:59 +0700 [INFO]:		Craw data page 55 success
+2021-09-10 18:21:59 +0700 [INFO]:		Start craw data in page 56
+2021-09-10 18:23:13 +0700 [INFO]:		Craw data page 56 success
+2021-09-10 18:23:13 +0700 [INFO]:		Start craw data in page 57
+2021-09-10 18:24:32 +0700 [INFO]:		Craw data page 57 success
+2021-09-10 18:24:32 +0700 [INFO]:		Start craw data in page 58
+2021-09-10 18:25:46 +0700 [INFO]:		Craw data page 58 success
+2021-09-10 18:25:46 +0700 [INFO]:		Start craw data in page 59
+2021-09-10 18:27:03 +0700 [INFO]:		Craw data page 59 success
+2021-09-10 18:27:03 +0700 [INFO]:		Start craw data in page 60
+2021-09-10 18:28:21 +0700 [INFO]:		Craw data page 60 success
+2021-09-10 18:28:21 +0700 [INFO]:		Start craw data in page 61
+2021-09-10 18:29:40 +0700 [INFO]:		Craw data page 61 success
+2021-09-10 18:29:40 +0700 [INFO]:		Start craw data in page 62
+2021-09-10 18:31:00 +0700 [INFO]:		Craw data page 62 success
+2021-09-10 18:31:00 +0700 [INFO]:		Start craw data in page 63
+2021-09-10 18:32:27 +0700 [INFO]:		Craw data page 63 success
+2021-09-10 18:32:27 +0700 [INFO]:		Start craw data in page 64
+2021-09-10 18:33:45 +0700 [INFO]:		Craw data page 64 success
+2021-09-10 18:33:45 +0700 [INFO]:		Start craw data in page 65
+2021-09-10 18:35:20 +0700 [INFO]:		Craw data page 65 success
+2021-09-10 18:35:20 +0700 [INFO]:		Start craw data in page 66
+2021-09-10 18:36:36 +0700 [INFO]:		Craw data page 66 success
+2021-09-10 18:36:36 +0700 [INFO]:		Start craw data in page 67
+2021-09-10 18:37:51 +0700 [INFO]:		Craw data page 67 success
+2021-09-10 18:37:51 +0700 [INFO]:		Start craw data in page 68
+2021-09-10 18:39:17 +0700 [INFO]:		Craw data page 68 success
+2021-09-10 18:39:17 +0700 [INFO]:		Start craw data in page 69
+2021-09-10 18:40:34 +0700 [INFO]:		Craw data page 69 success
+2021-09-10 18:40:34 +0700 [INFO]:		Start craw data in page 70
+2021-09-10 18:41:52 +0700 [INFO]:		Craw data page 70 success
+2021-09-10 18:41:52 +0700 [INFO]:		Start craw data in page 71
+2021-09-10 18:43:04 +0700 [INFO]:		Craw data page 71 success
+2021-09-10 18:43:04 +0700 [INFO]:		Start craw data in page 72
+2021-09-10 18:44:22 +0700 [INFO]:		Craw data page 72 success
+2021-09-10 18:44:22 +0700 [INFO]:		Start craw data in page 73
+2021-09-10 18:45:35 +0700 [INFO]:		Craw data page 73 success
+2021-09-10 18:45:35 +0700 [INFO]:		Start craw data in page 74
+2021-09-10 18:46:54 +0700 [INFO]:		Craw data page 74 success
+2021-09-10 18:46:54 +0700 [INFO]:		Start craw data in page 75
+2021-09-10 18:48:13 +0700 [INFO]:		Craw data page 75 success
+2021-09-10 18:48:13 +0700 [INFO]:		Start craw data in page 76
+2021-09-10 18:49:33 +0700 [INFO]:		Craw data page 76 success
+2021-09-10 18:49:33 +0700 [INFO]:		Start craw data in page 77
+2021-09-10 18:51:07 +0700 [INFO]:		Craw data page 77 success
+2021-09-10 18:51:07 +0700 [INFO]:		Start craw data in page 78
+2021-09-10 18:52:19 +0700 [INFO]:		Craw data page 78 success
+2021-09-10 18:52:19 +0700 [INFO]:		Start craw data in page 79
+2021-09-10 18:53:39 +0700 [INFO]:		Craw data page 79 success
+2021-09-10 18:53:39 +0700 [INFO]:		Start craw data in page 80
+2021-09-10 18:55:04 +0700 [INFO]:		Craw data page 80 success
+2021-09-10 18:55:04 +0700 [INFO]:		Start craw data in page 81
+2021-09-10 18:56:18 +0700 [INFO]:		Craw data page 81 success
+2021-09-10 18:56:18 +0700 [INFO]:		Start craw data in page 82
+2021-09-10 18:57:36 +0700 [INFO]:		Craw data page 82 success
+2021-09-10 18:57:36 +0700 [INFO]:		Start craw data in page 83
+2021-09-10 18:58:53 +0700 [INFO]:		Craw data page 83 success
+2021-09-10 18:58:53 +0700 [INFO]:		Start craw data in page 84
+2021-09-10 19:00:08 +0700 [INFO]:		Craw data page 84 success
+2021-09-10 19:00:08 +0700 [INFO]:		Start craw data in page 85
+2021-09-10 19:01:31 +0700 [INFO]:		Craw data page 85 success
+2021-09-10 19:01:31 +0700 [INFO]:		Start craw data in page 86
+2021-09-10 19:02:58 +0700 [INFO]:		Craw data page 86 success
+2021-09-10 19:02:58 +0700 [INFO]:		Start craw data in page 87
+2021-09-10 19:04:15 +0700 [INFO]:		Craw data page 87 success
+2021-09-10 19:04:15 +0700 [INFO]:		Start craw data in page 88
+2021-09-10 19:05:32 +0700 [INFO]:		Craw data page 88 success
+2021-09-10 19:05:32 +0700 [INFO]:		Start craw data in page 89
+2021-09-10 19:06:58 +0700 [INFO]:		Craw data page 89 success
+2021-09-10 19:06:58 +0700 [INFO]:		Start craw data in page 90
+2021-09-10 19:08:39 +0700 [INFO]:		Craw data page 90 success
+2021-09-10 19:08:39 +0700 [INFO]:		Start craw data in page 91
+2021-09-10 19:10:09 +0700 [INFO]:		Craw data page 91 success
+2021-09-10 19:10:09 +0700 [INFO]:		Start craw data in page 92
+2021-09-10 19:11:28 +0700 [INFO]:		Craw data page 92 success
+2021-09-10 19:11:28 +0700 [INFO]:		Start craw data in page 93
+2021-09-10 19:13:20 +0700 [INFO]:		Craw data page 93 success
+2021-09-10 19:13:20 +0700 [INFO]:		Start craw data in page 94
+2021-09-10 19:14:38 +0700 [INFO]:		Craw data page 94 success
+2021-09-10 19:14:38 +0700 [INFO]:		Start craw data in page 95
+2021-09-10 19:15:53 +0700 [INFO]:		Craw data page 95 success
+2021-09-10 19:15:53 +0700 [INFO]:		Start craw data in page 96
+2021-09-10 19:17:20 +0700 [INFO]:		Craw data page 96 success
+2021-09-10 19:17:20 +0700 [INFO]:		Start craw data in page 97
+2021-09-10 19:18:36 +0700 [INFO]:		Craw data page 97 success
+2021-09-10 19:18:36 +0700 [INFO]:		Start craw data in page 98
+2021-09-10 19:19:54 +0700 [INFO]:		Craw data page 98 success
+2021-09-10 19:19:54 +0700 [INFO]:		Start craw data in page 99
+2021-09-10 19:21:19 +0700 [INFO]:		Craw data page 99 success
+2021-09-10 19:21:19 +0700 [INFO]:		Start craw data in page 100
+2021-09-10 19:22:46 +0700 [INFO]:		Craw data page 100 success
+2021-09-10 19:22:46 +0700 [INFO]:		Start craw data in page 101
+2021-09-10 19:24:07 +0700 [INFO]:		Craw data page 101 success
+2021-09-10 19:24:07 +0700 [INFO]:		Start craw data in page 102
+2021-09-10 19:25:57 +0700 [INFO]:		Craw data page 102 success
+2021-09-10 19:25:57 +0700 [INFO]:		Start craw data in page 103
+2021-09-10 19:27:25 +0700 [INFO]:		Craw data page 103 success
+2021-09-10 19:27:25 +0700 [INFO]:		Start craw data in page 104
+2021-09-10 19:28:46 +0700 [INFO]:		Craw data page 104 success
+2021-09-10 19:28:46 +0700 [INFO]:		Start craw data in page 105
+2021-09-10 19:30:35 +0700 [INFO]:		Craw data page 105 success
+2021-09-10 19:30:35 +0700 [INFO]:		Start craw data in page 106
+2021-09-10 19:31:53 +0700 [INFO]:		Craw data page 106 success
+2021-09-10 19:31:53 +0700 [INFO]:		Start craw data in page 107
+2021-09-10 19:33:15 +0700 [INFO]:		Craw data page 107 success
+2021-09-10 19:33:15 +0700 [INFO]:		Start craw data in page 108
+2021-09-10 19:34:34 +0700 [INFO]:		Craw data page 108 success
+2021-09-10 19:34:34 +0700 [INFO]:		Start craw data in page 109
+2021-09-10 19:35:57 +0700 [INFO]:		Craw data page 109 success
+2021-09-10 19:35:57 +0700 [INFO]:		Start craw data in page 110
+2021-09-10 19:37:19 +0700 [INFO]:		Craw data page 110 success
+2021-09-10 19:37:19 +0700 [INFO]:		Start craw data in page 111
+2021-09-10 19:38:43 +0700 [INFO]:		Craw data page 111 success
+2021-09-10 19:38:43 +0700 [INFO]:		Start craw data in page 112
+2021-09-10 19:40:09 +0700 [INFO]:		Craw data page 112 success
+2021-09-10 19:40:09 +0700 [INFO]:		Start craw data in page 113
+2021-09-10 19:41:49 +0700 [INFO]:		Craw data page 113 success
+2021-09-10 19:41:49 +0700 [INFO]:		Start craw data in page 114
+2021-09-10 19:43:14 +0700 [INFO]:		Craw data page 114 success
+2021-09-10 19:43:14 +0700 [INFO]:		Start craw data in page 115
+2021-09-10 19:44:32 +0700 [INFO]:		Craw data page 115 success
+2021-09-10 19:44:32 +0700 [INFO]:		Start craw data in page 116
+2021-09-10 19:45:54 +0700 [INFO]:		Craw data page 116 success
+2021-09-10 19:45:54 +0700 [INFO]:		Start craw data in page 117
+2021-09-10 19:47:13 +0700 [INFO]:		Craw data page 117 success
+2021-09-10 19:47:13 +0700 [INFO]:		Start craw data in page 118
+2021-09-10 19:48:37 +0700 [INFO]:		Craw data page 118 success
+2021-09-10 19:48:37 +0700 [INFO]:		Start craw data in page 119
+2021-09-10 19:49:51 +0700 [INFO]:		Craw data page 119 success
+2021-09-10 19:49:51 +0700 [INFO]:		Start craw data in page 120
+2021-09-10 19:51:17 +0700 [INFO]:		Craw data page 120 success
+2021-09-10 19:51:17 +0700 [INFO]:		Start craw data in page 121
+2021-09-10 19:52:41 +0700 [INFO]:		Craw data page 121 success
+2021-09-10 19:52:41 +0700 [INFO]:		Start craw data in page 122
+2021-09-10 19:54:01 +0700 [INFO]:		Craw data page 122 success
+2021-09-10 19:54:01 +0700 [INFO]:		Start craw data in page 123
+2021-09-10 19:55:27 +0700 [INFO]:		Craw data page 123 success
+2021-09-10 19:55:27 +0700 [INFO]:		Start craw data in page 124
+2021-09-10 19:56:47 +0700 [INFO]:		Craw data page 124 success
+2021-09-10 19:56:47 +0700 [INFO]:		Start craw data in page 125
+2021-09-10 19:58:11 +0700 [INFO]:		Craw data page 125 success
+2021-09-10 19:58:11 +0700 [INFO]:		Start craw data in page 126
+2021-09-10 19:59:31 +0700 [INFO]:		Craw data page 126 success
+2021-09-10 19:59:31 +0700 [INFO]:		Start craw data in page 127
+2021-09-10 20:00:54 +0700 [INFO]:		Craw data page 127 success
+2021-09-10 20:00:54 +0700 [INFO]:		Start craw data in page 128
+2021-09-10 20:02:13 +0700 [INFO]:		Craw data page 128 success
+2021-09-10 20:02:13 +0700 [INFO]:		Start craw data in page 129
+2021-09-10 20:03:48 +0700 [INFO]:		Craw data page 129 success
+2021-09-10 20:03:48 +0700 [INFO]:		Start craw data in page 130
+2021-09-10 20:05:52 +0700 [INFO]:		Craw data page 130 success
+2021-09-10 20:05:52 +0700 [INFO]:		Start craw data in page 131
+2021-09-10 20:07:34 +0700 [INFO]:		Craw data page 131 success
+2021-09-10 20:07:34 +0700 [INFO]:		Start craw data in page 132
+2021-09-10 20:09:08 +0700 [INFO]:		Craw data page 132 success
+2021-09-10 20:09:08 +0700 [INFO]:		Start craw data in page 133
+2021-09-10 20:10:43 +0700 [INFO]:		Craw data page 133 success
+2021-09-10 20:10:43 +0700 [INFO]:		Start craw data in page 134
+2021-09-10 20:12:15 +0700 [INFO]:		Craw data page 134 success
+2021-09-10 20:12:15 +0700 [INFO]:		Start craw data in page 135
+2021-09-10 20:22:22 +0700 [INFO]:		Init driver
+2021-09-10 20:22:25 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-10 20:22:25 +0700 [INFO]:		Start craw data in page 135
+2021-09-10 20:39:52 +0700 [INFO]:		Init driver
+2021-09-10 20:39:54 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-10 20:39:54 +0700 [INFO]:		Start craw data in page 135
+2021-09-10 20:41:45 +0700 [INFO]:		Craw data page 135 success
+2021-09-10 20:41:45 +0700 [INFO]:		Start craw data in page 136
+2021-09-10 20:43:21 +0700 [INFO]:		Craw data page 136 success
+2021-09-10 20:43:21 +0700 [INFO]:		Start craw data in page 137
+2021-09-10 20:45:19 +0700 [INFO]:		Craw data page 137 success
+2021-09-10 20:45:19 +0700 [INFO]:		Start craw data in page 138
+2021-09-10 20:46:43 +0700 [INFO]:		Craw data page 138 success
+2021-09-10 20:46:43 +0700 [INFO]:		Start craw data in page 139
+2021-09-10 20:48:12 +0700 [INFO]:		Craw data page 139 success
+2021-09-10 20:48:12 +0700 [INFO]:		Start craw data in page 140
+2021-09-10 20:49:29 +0700 [INFO]:		Craw data page 140 success
+2021-09-10 20:49:29 +0700 [INFO]:		Start craw data in page 141
+2021-09-10 20:50:46 +0700 [INFO]:		Craw data page 141 success
+2021-09-10 20:50:46 +0700 [INFO]:		Start craw data in page 142
+2021-09-10 20:52:03 +0700 [INFO]:		Craw data page 142 success
+2021-09-10 20:52:03 +0700 [INFO]:		Start craw data in page 143
+2021-09-10 20:53:53 +0700 [INFO]:		Craw data page 143 success
+2021-09-10 20:53:53 +0700 [INFO]:		Start craw data in page 144
+2021-09-10 20:55:09 +0700 [INFO]:		Craw data page 144 success
+2021-09-10 20:55:09 +0700 [INFO]:		Start craw data in page 145
+2021-09-10 20:56:23 +0700 [INFO]:		Craw data page 145 success
+2021-09-10 20:56:23 +0700 [INFO]:		Start craw data in page 146
+2021-09-10 20:58:53 +0700 [INFO]:		Craw data page 146 success
+2021-09-10 20:58:53 +0700 [INFO]:		Start craw data in page 147
+2021-09-10 21:00:30 +0700 [INFO]:		Craw data page 147 success
+2021-09-10 21:00:30 +0700 [INFO]:		Start craw data in page 148
+2021-09-10 21:02:47 +0700 [INFO]:		Craw data page 148 success
+2021-09-10 21:02:47 +0700 [INFO]:		Start craw data in page 149
+2021-09-10 21:04:10 +0700 [INFO]:		Craw data page 149 success
+2021-09-10 21:04:10 +0700 [INFO]:		Start craw data in page 150
+2021-09-10 21:05:32 +0700 [INFO]:		Craw data page 150 success
+2021-09-10 21:05:32 +0700 [INFO]:		Start craw data in page 151
+2021-09-10 21:07:14 +0700 [INFO]:		Craw data page 151 success
+2021-09-10 21:07:14 +0700 [INFO]:		Start craw data in page 152
+2021-09-10 21:08:57 +0700 [INFO]:		Craw data page 152 success
+2021-09-10 21:08:57 +0700 [INFO]:		Start craw data in page 153
+2021-09-10 21:25:58 +0700 [INFO]:		Init driver
+2021-09-10 21:26:00 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-10 21:26:00 +0700 [INFO]:		Start craw data in page 153
+2021-09-10 21:27:59 +0700 [INFO]:		Craw data page 153 success
+2021-09-10 21:27:59 +0700 [INFO]:		Start craw data in page 154
+2021-09-10 21:29:13 +0700 [INFO]:		Craw data page 154 success
+2021-09-10 21:29:13 +0700 [INFO]:		Start craw data in page 155
+2021-09-10 21:30:42 +0700 [INFO]:		Craw data page 155 success
+2021-09-10 21:30:42 +0700 [INFO]:		Start craw data in page 156
+2021-09-10 21:32:28 +0700 [INFO]:		Craw data page 156 success
+2021-09-10 21:32:28 +0700 [INFO]:		Start craw data in page 157
+2021-09-10 21:33:43 +0700 [INFO]:		Craw data page 157 success
+2021-09-10 21:33:43 +0700 [INFO]:		Start craw data in page 158
+2021-09-10 21:35:08 +0700 [INFO]:		Craw data page 158 success
+2021-09-10 21:35:08 +0700 [INFO]:		Start craw data in page 159
+2021-09-10 21:36:22 +0700 [INFO]:		Craw data page 159 success
+2021-09-10 21:36:22 +0700 [INFO]:		Start craw data in page 160
+2021-09-10 21:37:42 +0700 [INFO]:		Craw data page 160 success
+2021-09-10 21:37:42 +0700 [INFO]:		Start craw data in page 161
+2021-09-10 21:40:09 +0700 [INFO]:		Craw data page 161 success
+2021-09-10 21:40:09 +0700 [INFO]:		Start craw data in page 162
+2021-09-10 21:41:40 +0700 [INFO]:		Craw data page 162 success
+2021-09-10 21:41:40 +0700 [INFO]:		Start craw data in page 163
+2021-09-10 21:42:54 +0700 [INFO]:		Craw data page 163 success
+2021-09-10 21:42:54 +0700 [INFO]:		Start craw data in page 164
+2021-09-10 21:44:09 +0700 [INFO]:		Craw data page 164 success
+2021-09-10 21:44:09 +0700 [INFO]:		Start craw data in page 165
+2021-09-10 21:45:21 +0700 [INFO]:		Craw data page 165 success
+2021-09-10 21:45:21 +0700 [INFO]:		Start craw data in page 166
+2021-09-10 21:46:33 +0700 [INFO]:		Craw data page 166 success
+2021-09-10 21:46:33 +0700 [INFO]:		Start craw data in page 167
+2021-09-10 21:47:47 +0700 [INFO]:		Craw data page 167 success
+2021-09-10 21:47:47 +0700 [INFO]:		Start craw data in page 168
+2021-09-10 21:49:05 +0700 [INFO]:		Craw data page 168 success
+2021-09-10 21:49:05 +0700 [INFO]:		Start craw data in page 169
+2021-09-10 21:50:23 +0700 [INFO]:		Craw data page 169 success
+2021-09-10 21:50:23 +0700 [INFO]:		Start craw data in page 170
+2021-09-10 21:51:36 +0700 [INFO]:		Craw data page 170 success
+2021-09-10 21:51:36 +0700 [INFO]:		Start craw data in page 171
+2021-09-10 21:52:46 +0700 [INFO]:		Craw data page 171 success
+2021-09-10 21:52:46 +0700 [INFO]:		Start craw data in page 172
+2021-09-10 21:54:01 +0700 [INFO]:		Craw data page 172 success
+2021-09-10 21:54:01 +0700 [INFO]:		Start craw data in page 173
+2021-09-10 21:55:15 +0700 [INFO]:		Craw data page 173 success
+2021-09-10 21:55:15 +0700 [INFO]:		Start craw data in page 174
+2021-09-10 21:56:30 +0700 [INFO]:		Craw data page 174 success
+2021-09-10 21:56:30 +0700 [INFO]:		Start craw data in page 175
+2021-09-10 21:57:41 +0700 [INFO]:		Craw data page 175 success
+2021-09-10 21:57:41 +0700 [INFO]:		Start craw data in page 176
+2021-09-10 21:58:54 +0700 [INFO]:		Craw data page 176 success
+2021-09-10 21:58:54 +0700 [INFO]:		Start craw data in page 177
+2021-09-10 22:00:10 +0700 [INFO]:		Craw data page 177 success
+2021-09-10 22:00:10 +0700 [INFO]:		Start craw data in page 178
+2021-09-10 22:01:21 +0700 [INFO]:		Craw data page 178 success
+2021-09-10 22:01:21 +0700 [INFO]:		Start craw data in page 179
+2021-09-10 22:02:33 +0700 [INFO]:		Craw data page 179 success
+2021-09-10 22:02:33 +0700 [INFO]:		Start craw data in page 180
+2021-09-10 22:03:44 +0700 [INFO]:		Craw data page 180 success
+2021-09-10 22:03:44 +0700 [INFO]:		Start craw data in page 181
+2021-09-10 22:04:55 +0700 [INFO]:		Craw data page 181 success
+2021-09-10 22:04:55 +0700 [INFO]:		Start craw data in page 182
+2021-09-10 22:06:05 +0700 [INFO]:		Craw data page 182 success
+2021-09-10 22:06:05 +0700 [INFO]:		Start craw data in page 183
+2021-09-10 22:07:16 +0700 [INFO]:		Craw data page 183 success
+2021-09-10 22:07:16 +0700 [INFO]:		Start craw data in page 184
+2021-09-10 22:08:31 +0700 [INFO]:		Craw data page 184 success
+2021-09-10 22:08:31 +0700 [INFO]:		Start craw data in page 185
+2021-09-10 22:09:43 +0700 [INFO]:		Craw data page 185 success
+2021-09-10 22:09:43 +0700 [INFO]:		Start craw data in page 186
+2021-09-10 22:10:53 +0700 [INFO]:		Craw data page 186 success
+2021-09-10 22:10:53 +0700 [INFO]:		Start craw data in page 187
+2021-09-10 22:12:09 +0700 [INFO]:		Craw data page 187 success
+2021-09-10 22:12:09 +0700 [INFO]:		Start craw data in page 188
+2021-09-10 22:13:20 +0700 [INFO]:		Craw data page 188 success
+2021-09-10 22:13:20 +0700 [INFO]:		Start craw data in page 189
+2021-09-10 22:14:30 +0700 [INFO]:		Craw data page 189 success
+2021-09-10 22:14:30 +0700 [INFO]:		Start craw data in page 190
+2021-09-10 22:15:59 +0700 [INFO]:		Craw data page 190 success
+2021-09-10 22:15:59 +0700 [INFO]:		Start craw data in page 191
+2021-09-10 22:17:10 +0700 [INFO]:		Craw data page 191 success
+2021-09-10 22:17:10 +0700 [INFO]:		Start craw data in page 192
+2021-09-10 22:18:30 +0700 [INFO]:		Craw data page 192 success
+2021-09-10 22:18:30 +0700 [INFO]:		Start craw data in page 193
+2021-09-10 22:20:00 +0700 [INFO]:		Craw data page 193 success
+2021-09-10 22:20:00 +0700 [INFO]:		Start craw data in page 194
+2021-09-10 22:21:19 +0700 [INFO]:		Craw data page 194 success
+2021-09-10 22:21:19 +0700 [INFO]:		Start craw data in page 195
+2021-09-10 22:22:37 +0700 [INFO]:		Craw data page 195 success
+2021-09-10 22:22:37 +0700 [INFO]:		Start craw data in page 196
+2021-09-10 22:23:58 +0700 [INFO]:		Craw data page 196 success
+2021-09-10 22:23:58 +0700 [INFO]:		Start craw data in page 197
+2021-09-10 22:25:17 +0700 [INFO]:		Craw data page 197 success
+2021-09-10 22:25:17 +0700 [INFO]:		Start craw data in page 198
+2021-09-10 22:26:36 +0700 [INFO]:		Craw data page 198 success
+2021-09-10 22:26:36 +0700 [INFO]:		Start craw data in page 199
+2021-09-10 22:27:47 +0700 [INFO]:		Craw data page 199 success
+2021-09-10 22:27:47 +0700 [INFO]:		Start craw data in page 200
+2021-09-10 22:29:10 +0700 [INFO]:		Craw data page 200 success
+2021-09-10 22:29:10 +0700 [INFO]:		Start craw data in page 201
+2021-09-10 22:30:51 +0700 [INFO]:		Craw data page 201 success
+2021-09-10 22:30:51 +0700 [INFO]:		Start craw data in page 202
+2021-09-10 22:32:01 +0700 [INFO]:		Craw data page 202 success
+2021-09-10 22:32:01 +0700 [INFO]:		Start craw data in page 203
+2021-09-10 22:33:13 +0700 [INFO]:		Craw data page 203 success
+2021-09-10 22:33:13 +0700 [INFO]:		Start craw data in page 204
+2021-09-10 22:34:33 +0700 [INFO]:		Craw data page 204 success
+2021-09-10 22:34:33 +0700 [INFO]:		Start craw data in page 205
+2021-09-10 22:35:52 +0700 [INFO]:		Craw data page 205 success
+2021-09-10 22:35:52 +0700 [INFO]:		Start craw data in page 206
+2021-09-10 22:37:05 +0700 [INFO]:		Craw data page 206 success
+2021-09-10 22:37:05 +0700 [INFO]:		Start craw data in page 207
+2021-09-10 22:38:17 +0700 [INFO]:		Craw data page 207 success
+2021-09-10 22:38:17 +0700 [INFO]:		Start craw data in page 208
+2021-09-10 22:39:27 +0700 [INFO]:		Craw data page 208 success
+2021-09-10 22:39:27 +0700 [INFO]:		Start craw data in page 209
+2021-09-10 22:40:57 +0700 [INFO]:		Craw data page 209 success
+2021-09-10 22:40:57 +0700 [INFO]:		Start craw data in page 210
+2021-09-10 22:42:39 +0700 [INFO]:		Craw data page 210 success
+2021-09-10 22:42:39 +0700 [INFO]:		Start craw data in page 211
+2021-09-10 22:44:46 +0700 [INFO]:		Craw data page 211 success
+2021-09-10 22:44:46 +0700 [INFO]:		Start craw data in page 212
+2021-09-10 22:46:07 +0700 [INFO]:		Craw data page 212 success
+2021-09-10 22:46:07 +0700 [INFO]:		Start craw data in page 213
+2021-09-10 22:47:32 +0700 [INFO]:		Craw data page 213 success
+2021-09-10 22:47:32 +0700 [INFO]:		Start craw data in page 214
+2021-09-10 22:48:44 +0700 [INFO]:		Craw data page 214 success
+2021-09-10 22:48:44 +0700 [INFO]:		Start craw data in page 215
+2021-09-10 23:11:24 +0700 [INFO]:		Init driver
+2021-09-10 23:11:27 +0700 [INFO]:		Connecting to https://imitsu.jp/ct-hp-design/search/
+2021-09-10 23:11:27 +0700 [INFO]:		Start craw data in page 215
+2021-09-10 23:12:41 +0700 [INFO]:		Craw data page 215 success
+2021-09-10 23:12:41 +0700 [INFO]:		Start craw data in page 216
+2021-09-10 23:14:05 +0700 [INFO]:		Craw data page 216 success
+2021-09-10 23:14:05 +0700 [INFO]:		Start craw data in page 217
+2021-09-10 23:15:18 +0700 [INFO]:		Craw data page 217 success
+2021-09-10 23:15:18 +0700 [INFO]:		Start craw data in page 218
+2021-09-10 23:16:27 +0700 [INFO]:		Craw data page 218 success
+2021-09-10 23:16:27 +0700 [INFO]:		Start craw data in page 219
+2021-09-10 23:17:39 +0700 [INFO]:		Craw data page 219 success
+2021-09-10 23:17:39 +0700 [INFO]:		Start craw data in page 220
+2021-09-10 23:18:49 +0700 [INFO]:		Craw data page 220 success
+2021-09-10 23:18:49 +0700 [INFO]:		Start craw data in page 221
+2021-09-10 23:20:08 +0700 [INFO]:		Craw data page 221 success
+2021-09-10 23:20:08 +0700 [INFO]:		Start craw data in page 222
+2021-09-10 23:21:18 +0700 [INFO]:		Craw data page 222 success
+2021-09-10 23:21:18 +0700 [INFO]:		Start craw data in page 223
+2021-09-10 23:22:33 +0700 [INFO]:		Craw data page 223 success
+2021-09-10 23:22:33 +0700 [INFO]:		Start craw data in page 224
+2021-09-10 23:23:45 +0700 [INFO]:		Craw data page 224 success
+2021-09-10 23:23:45 +0700 [INFO]:		Start craw data in page 225
+2021-09-10 23:25:01 +0700 [INFO]:		Craw data page 225 success
+2021-09-10 23:25:01 +0700 [INFO]:		Start craw data in page 226
+2021-09-10 23:26:23 +0700 [INFO]:		Craw data page 226 success
+2021-09-10 23:26:23 +0700 [INFO]:		Start craw data in page 227
+2021-09-10 23:27:38 +0700 [INFO]:		Craw data page 227 success
+2021-09-10 23:27:38 +0700 [INFO]:		Start craw data in page 228
+2021-09-10 23:28:51 +0700 [INFO]:		Craw data page 228 success
+2021-09-10 23:28:51 +0700 [INFO]:		Start craw data in page 229
+2021-09-10 23:30:08 +0700 [INFO]:		Craw data page 229 success
+2021-09-10 23:30:08 +0700 [INFO]:		Start craw data in page 230
+2021-09-10 23:31:24 +0700 [INFO]:		Craw data page 230 success
+2021-09-10 23:31:24 +0700 [INFO]:		Start craw data in page 231
+2021-09-10 23:32:38 +0700 [INFO]:		Craw data page 231 success
+2021-09-10 23:32:38 +0700 [INFO]:		Start craw data in page 232
+2021-09-10 23:33:59 +0700 [INFO]:		Craw data page 232 success
+2021-09-10 23:33:59 +0700 [INFO]:		Start craw data in page 233
+2021-09-10 23:35:18 +0700 [INFO]:		Craw data page 233 success
+2021-09-10 23:35:18 +0700 [INFO]:		Start craw data in page 234
+2021-09-10 23:36:37 +0700 [INFO]:		Craw data page 234 success
+2021-09-10 23:36:37 +0700 [INFO]:		Start craw data in page 235
+2021-09-10 23:37:53 +0700 [INFO]:		Craw data page 235 success
+2021-09-10 23:37:53 +0700 [INFO]:		Start craw data in page 236
+2021-09-10 23:39:09 +0700 [INFO]:		Craw data page 236 success
+2021-09-10 23:39:09 +0700 [INFO]:		Start craw data in page 237
+2021-09-10 23:40:29 +0700 [INFO]:		Craw data page 237 success
+2021-09-10 23:40:29 +0700 [INFO]:		Start craw data in page 238
+2021-09-10 23:41:42 +0700 [INFO]:		Craw data page 238 success
+2021-09-10 23:41:42 +0700 [INFO]:		Start craw data in page 239
+2021-09-10 23:43:00 +0700 [INFO]:		Craw data page 239 success
+2021-09-10 23:43:00 +0700 [INFO]:		Start craw data in page 240
+2021-09-10 23:44:16 +0700 [INFO]:		Craw data page 240 success
+2021-09-10 23:44:16 +0700 [INFO]:		Start craw data in page 241
+2021-09-10 23:45:31 +0700 [INFO]:		Craw data page 241 success
+2021-09-10 23:45:31 +0700 [INFO]:		Start craw data in page 242
+2021-09-10 23:46:46 +0700 [INFO]:		Craw data page 242 success
+2021-09-10 23:46:46 +0700 [INFO]:		Start craw data in page 243
+2021-09-10 23:47:58 +0700 [INFO]:		Craw data page 243 success
+2021-09-10 23:47:58 +0700 [INFO]:		Start craw data in page 244
+2021-09-10 23:49:12 +0700 [INFO]:		Craw data page 244 success
+2021-09-10 23:49:12 +0700 [INFO]:		Start craw data in page 245
+2021-09-10 23:50:30 +0700 [INFO]:		Craw data page 245 success
+2021-09-10 23:50:30 +0700 [INFO]:		Start craw data in page 246
+2021-09-10 23:51:43 +0700 [INFO]:		Craw data page 246 success
+2021-09-10 23:51:43 +0700 [INFO]:		Start craw data in page 247
+2021-09-10 23:52:58 +0700 [INFO]:		Craw data page 247 success
+2021-09-10 23:52:58 +0700 [INFO]:		Start craw data in page 248
+2021-09-10 23:54:10 +0700 [INFO]:		Craw data page 248 success
+2021-09-10 23:54:10 +0700 [INFO]:		Start craw data in page 249
+2021-09-10 23:55:24 +0700 [INFO]:		Craw data page 249 success
+2021-09-10 23:55:24 +0700 [INFO]:		Start craw data in page 250
+2021-09-10 23:56:45 +0700 [INFO]:		Craw data page 250 success
+2021-09-10 23:56:45 +0700 [INFO]:		Start craw data in page 251
+2021-09-10 23:58:00 +0700 [INFO]:		Craw data page 251 success
+2021-09-10 23:58:00 +0700 [INFO]:		Start craw data in page 252
+2021-09-10 23:59:16 +0700 [INFO]:		Craw data page 252 success
+2021-09-10 23:59:16 +0700 [INFO]:		Start craw data in page 253
+2021-09-11 00:00:29 +0700 [INFO]:		Craw data page 253 success
+2021-09-11 00:00:29 +0700 [INFO]:		Start craw data in page 254
+2021-09-11 00:01:41 +0700 [INFO]:		Craw data page 254 success
+2021-09-11 00:01:41 +0700 [INFO]:		Start craw data in page 255
+2021-09-11 00:02:54 +0700 [INFO]:		Craw data page 255 success
+2021-09-11 00:02:54 +0700 [INFO]:		Start craw data in page 256
+2021-09-11 00:04:10 +0700 [INFO]:		Craw data page 256 success
+2021-09-11 00:04:10 +0700 [INFO]:		Start craw data in page 257
+2021-09-11 00:05:25 +0700 [INFO]:		Craw data page 257 success
+2021-09-11 00:05:25 +0700 [INFO]:		Start craw data in page 258
+2021-09-11 00:06:39 +0700 [INFO]:		Craw data page 258 success
+2021-09-11 00:06:39 +0700 [INFO]:		Start craw data in page 259
+2021-09-11 00:07:54 +0700 [INFO]:		Craw data page 259 success
+2021-09-11 00:07:54 +0700 [INFO]:		Start craw data in page 260
+2021-09-11 00:09:08 +0700 [INFO]:		Craw data page 260 success
+2021-09-11 00:09:08 +0700 [INFO]:		Start craw data in page 261
+2021-09-11 00:10:27 +0700 [INFO]:		Craw data page 261 success
+2021-09-11 00:10:27 +0700 [INFO]:		Start craw data in page 262
+2021-09-11 00:11:39 +0700 [INFO]:		Craw data page 262 success
+2021-09-11 00:11:39 +0700 [INFO]:		Start craw data in page 263
+2021-09-11 00:12:59 +0700 [INFO]:		Craw data page 263 success
+2021-09-11 00:12:59 +0700 [INFO]:		Start craw data in page 264
+2021-09-11 00:14:12 +0700 [INFO]:		Craw data page 264 success
+2021-09-11 00:14:12 +0700 [INFO]:		Start craw data in page 265
+2021-09-11 00:15:25 +0700 [INFO]:		Craw data page 265 success
+2021-09-11 00:15:25 +0700 [INFO]:		Start craw data in page 266
+2021-09-11 00:16:36 +0700 [INFO]:		Craw data page 266 success
+2021-09-11 00:16:36 +0700 [INFO]:		Start craw data in page 267
+2021-09-11 00:17:58 +0700 [INFO]:		Craw data page 267 success
+2021-09-11 00:17:58 +0700 [INFO]:		Start craw data in page 268
+2021-09-11 00:19:11 +0700 [INFO]:		Craw data page 268 success
+2021-09-11 00:19:11 +0700 [INFO]:		Start craw data in page 269
+2021-09-11 00:20:26 +0700 [INFO]:		Craw data page 269 success
+2021-09-11 00:20:26 +0700 [INFO]:		Start craw data in page 270
+2021-09-11 00:21:43 +0700 [INFO]:		Craw data page 270 success
+2021-09-11 00:21:43 +0700 [INFO]:		Start craw data in page 271
+2021-09-11 00:22:57 +0700 [INFO]:		Craw data page 271 success
+2021-09-11 00:22:57 +0700 [INFO]:		Start craw data in page 272
+2021-09-11 00:24:10 +0700 [INFO]:		Craw data page 272 success
+2021-09-11 00:24:10 +0700 [INFO]:		Start craw data in page 273
+2021-09-11 00:25:22 +0700 [INFO]:		Craw data page 273 success
+2021-09-11 00:25:22 +0700 [INFO]:		Start craw data in page 274
+2021-09-11 00:26:35 +0700 [INFO]:		Craw data page 274 success
+2021-09-11 00:26:35 +0700 [INFO]:		Start craw data in page 275
+2021-09-11 00:27:47 +0700 [INFO]:		Craw data page 275 success
+2021-09-11 00:27:47 +0700 [INFO]:		Start craw data in page 276
+2021-09-11 00:28:59 +0700 [INFO]:		Craw data page 276 success
+2021-09-11 00:28:59 +0700 [INFO]:		Start craw data in page 277
+2021-09-11 00:30:15 +0700 [INFO]:		Craw data page 277 success
+2021-09-11 00:30:15 +0700 [INFO]:		Start craw data in page 278
+2021-09-11 00:31:36 +0700 [INFO]:		Craw data page 278 success
+2021-09-11 00:31:36 +0700 [INFO]:		Start craw data in page 279
+2021-09-11 00:32:56 +0700 [INFO]:		Craw data page 279 success
+2021-09-11 00:32:56 +0700 [INFO]:		Start craw data in page 280
+2021-09-11 00:34:21 +0700 [INFO]:		Craw data page 280 success
+2021-09-11 00:34:21 +0700 [INFO]:		Start craw data in page 281
+2021-09-11 00:35:37 +0700 [INFO]:		Craw data page 281 success
+2021-09-11 00:35:37 +0700 [INFO]:		Start craw data in page 282
+2021-09-11 00:36:48 +0700 [INFO]:		Craw data page 282 success
+2021-09-11 00:36:48 +0700 [INFO]:		Start craw data in page 283
+2021-09-11 00:38:01 +0700 [INFO]:		Craw data page 283 success
+2021-09-11 00:38:01 +0700 [INFO]:		Start craw data in page 284
+2021-09-11 00:39:13 +0700 [INFO]:		Craw data page 284 success
+2021-09-11 00:39:13 +0700 [INFO]:		Start craw data in page 285
+2021-09-11 00:40:27 +0700 [INFO]:		Craw data page 285 success
+2021-09-11 00:40:27 +0700 [INFO]:		Start craw data in page 286
+2021-09-11 00:41:40 +0700 [INFO]:		Craw data page 286 success
+2021-09-11 00:41:40 +0700 [INFO]:		Start craw data in page 287
+2021-09-11 00:42:56 +0700 [INFO]:		Craw data page 287 success
+2021-09-11 00:42:56 +0700 [INFO]:		Start craw data in page 288
+2021-09-11 00:44:11 +0700 [INFO]:		Craw data page 288 success
+2021-09-11 00:44:11 +0700 [INFO]:		Start craw data in page 289
+2021-09-11 00:45:24 +0700 [INFO]:		Craw data page 289 success
+2021-09-11 00:45:24 +0700 [INFO]:		Start craw data in page 290
+2021-09-11 00:46:41 +0700 [INFO]:		Craw data page 290 success
+2021-09-11 00:46:41 +0700 [INFO]:		Start craw data in page 291
+2021-09-11 00:47:54 +0700 [INFO]:		Craw data page 291 success
+2021-09-11 00:47:54 +0700 [INFO]:		Start craw data in page 292
+2021-09-11 00:49:07 +0700 [INFO]:		Craw data page 292 success
+2021-09-11 00:49:07 +0700 [INFO]:		Start craw data in page 293
+2021-09-11 00:50:19 +0700 [INFO]:		Craw data page 293 success
+2021-09-11 00:50:19 +0700 [INFO]:		Start craw data in page 294
+2021-09-11 00:51:35 +0700 [INFO]:		Craw data page 294 success
+2021-09-11 00:51:35 +0700 [INFO]:		Start craw data in page 295
+2021-09-11 00:52:58 +0700 [INFO]:		Craw data page 295 success
+2021-09-11 00:52:58 +0700 [INFO]:		Start craw data in page 296
+2021-09-11 00:54:10 +0700 [INFO]:		Craw data page 296 success
+2021-09-11 00:54:10 +0700 [INFO]:		Start craw data in page 297
+2021-09-11 00:55:27 +0700 [INFO]:		Craw data page 297 success
+2021-09-11 00:55:27 +0700 [INFO]:		Start craw data in page 298
+2021-09-11 00:56:39 +0700 [INFO]:		Craw data page 298 success
+2021-09-11 00:56:39 +0700 [INFO]:		Start craw data in page 299
+2021-09-11 00:57:51 +0700 [INFO]:		Craw data page 299 success
+2021-09-11 00:57:51 +0700 [INFO]:		Start craw data in page 300
+2021-09-11 00:59:02 +0700 [INFO]:		Craw data page 300 success
+2021-09-11 00:59:02 +0700 [INFO]:		Start craw data in page 301
+2021-09-11 01:00:13 +0700 [INFO]:		Craw data page 301 success
+2021-09-11 01:00:13 +0700 [INFO]:		Start craw data in page 302
+2021-09-11 01:01:25 +0700 [INFO]:		Craw data page 302 success
+2021-09-11 01:01:25 +0700 [INFO]:		Start craw data in page 303
+2021-09-11 01:02:35 +0700 [INFO]:		Craw data page 303 success
+2021-09-11 01:02:35 +0700 [INFO]:		Start craw data in page 304
+2021-09-11 01:03:47 +0700 [INFO]:		Craw data page 304 success
+2021-09-11 01:03:47 +0700 [INFO]:		Start craw data in page 305
+2021-09-11 01:04:57 +0700 [INFO]:		Craw data page 305 success
+2021-09-11 01:04:57 +0700 [INFO]:		Start craw data in page 306
+2021-09-11 01:06:08 +0700 [INFO]:		Craw data page 306 success
+2021-09-11 01:06:08 +0700 [INFO]:		Start craw data in page 307
+2021-09-11 01:07:30 +0700 [INFO]:		Craw data page 307 success
+2021-09-11 01:07:30 +0700 [INFO]:		Start craw data in page 308
+2021-09-11 01:08:52 +0700 [INFO]:		Craw data page 308 success
+2021-09-11 01:08:52 +0700 [INFO]:		Start craw data in page 309
+2021-09-11 01:10:06 +0700 [INFO]:		Craw data page 309 success
+2021-09-11 01:10:06 +0700 [INFO]:		Start craw data in page 310
+2021-09-11 01:11:18 +0700 [INFO]:		Craw data page 310 success
+2021-09-11 01:11:18 +0700 [INFO]:		Start craw data in page 311
+2021-09-11 01:12:31 +0700 [INFO]:		Craw data page 311 success
+2021-09-11 01:12:31 +0700 [INFO]:		Start craw data in page 312
+2021-09-11 01:13:51 +0700 [INFO]:		Craw data page 312 success
+2021-09-11 01:13:51 +0700 [INFO]:		Start craw data in page 313
+2021-09-11 01:15:03 +0700 [INFO]:		Craw data page 313 success
+2021-09-11 01:15:03 +0700 [INFO]:		Start craw data in page 314
+2021-09-11 01:16:14 +0700 [INFO]:		Craw data page 314 success
+2021-09-11 01:16:14 +0700 [INFO]:		Start craw data in page 315
+2021-09-11 01:17:28 +0700 [INFO]:		Craw data page 315 success
+2021-09-11 01:17:28 +0700 [INFO]:		Start craw data in page 316
+2021-09-11 01:18:40 +0700 [INFO]:		Craw data page 316 success
+2021-09-11 01:18:40 +0700 [INFO]:		Start craw data in page 317
+2021-09-11 01:19:52 +0700 [INFO]:		Craw data page 317 success
+2021-09-11 01:19:52 +0700 [INFO]:		Start craw data in page 318
+2021-09-11 01:21:25 +0700 [INFO]:		Craw data page 318 success
+2021-09-11 01:21:25 +0700 [INFO]:		Start craw data in page 319
+2021-09-11 01:22:36 +0700 [INFO]:		Craw data page 319 success
+2021-09-11 01:22:36 +0700 [INFO]:		Start craw data in page 320
+2021-09-11 01:23:48 +0700 [INFO]:		Craw data page 320 success
+2021-09-11 01:23:48 +0700 [INFO]:		Start craw data in page 321
+2021-09-11 01:25:00 +0700 [INFO]:		Craw data page 321 success
+2021-09-11 01:25:00 +0700 [INFO]:		Start craw data in page 322
+2021-09-11 01:26:11 +0700 [INFO]:		Craw data page 322 success
+2021-09-11 01:26:11 +0700 [INFO]:		Start craw data in page 323
+2021-09-11 01:27:24 +0700 [INFO]:		Craw data page 323 success
+2021-09-11 01:27:24 +0700 [INFO]:		Start craw data in page 324
+2021-09-11 01:28:37 +0700 [INFO]:		Craw data page 324 success
+2021-09-11 01:28:37 +0700 [INFO]:		Start craw data in page 325
+2021-09-11 01:29:49 +0700 [INFO]:		Craw data page 325 success
+2021-09-11 01:29:49 +0700 [INFO]:		Start craw data in page 326
+2021-09-11 01:31:01 +0700 [INFO]:		Craw data page 326 success
+2021-09-11 01:31:01 +0700 [INFO]:		Start craw data in page 327
+2021-09-11 01:32:13 +0700 [INFO]:		Craw data page 327 success
+2021-09-11 01:32:13 +0700 [INFO]:		Start craw data in page 328
+2021-09-11 01:33:28 +0700 [INFO]:		Craw data page 328 success
+2021-09-11 01:33:28 +0700 [INFO]:		Start craw data in page 329
+2021-09-11 01:34:41 +0700 [INFO]:		Craw data page 329 success
+2021-09-11 01:34:41 +0700 [INFO]:		Start craw data in page 330
+2021-09-11 01:35:55 +0700 [INFO]:		Craw data page 330 success
+2021-09-11 01:35:55 +0700 [INFO]:		Start craw data in page 331
+2021-09-11 01:37:07 +0700 [INFO]:		Craw data page 331 success
+2021-09-11 01:37:07 +0700 [INFO]:		Start craw data in page 332
+2021-09-11 01:38:22 +0700 [INFO]:		Craw data page 332 success
+2021-09-11 01:38:22 +0700 [INFO]:		Start craw data in page 333
+2021-09-11 01:39:34 +0700 [INFO]:		Craw data page 333 success
+2021-09-11 01:39:34 +0700 [INFO]:		Start craw data in page 334
+2021-09-11 01:40:49 +0700 [INFO]:		Craw data page 334 success
+2021-09-11 01:40:49 +0700 [INFO]:		Start craw data in page 335
+2021-09-11 01:42:01 +0700 [INFO]:		Craw data page 335 success
+2021-09-11 01:42:01 +0700 [INFO]:		Start craw data in page 336
+2021-09-11 01:43:12 +0700 [INFO]:		Craw data page 336 success
+2021-09-11 01:43:12 +0700 [INFO]:		Start craw data in page 337
+2021-09-11 01:44:24 +0700 [INFO]:		Craw data page 337 success
+2021-09-11 01:44:24 +0700 [INFO]:		Start craw data in page 338
+2021-09-11 01:45:37 +0700 [INFO]:		Craw data page 338 success
+2021-09-11 01:45:37 +0700 [INFO]:		Start craw data in page 339
+2021-09-11 01:46:48 +0700 [INFO]:		Craw data page 339 success
+2021-09-11 01:46:48 +0700 [INFO]:		Start craw data in page 340
+2021-09-11 01:47:58 +0700 [INFO]:		Craw data page 340 success
+2021-09-11 01:47:58 +0700 [INFO]:		Start craw data in page 341
+2021-09-11 01:49:12 +0700 [INFO]:		Craw data page 341 success
+2021-09-11 01:49:12 +0700 [INFO]:		Start craw data in page 342
+2021-09-11 01:50:25 +0700 [INFO]:		Craw data page 342 success
+2021-09-11 01:50:25 +0700 [INFO]:		Start craw data in page 343
+2021-09-11 01:51:39 +0700 [INFO]:		Craw data page 343 success
+2021-09-11 01:51:39 +0700 [INFO]:		Start craw data in page 344
+2021-09-11 01:52:52 +0700 [INFO]:		Craw data page 344 success
+2021-09-11 01:52:52 +0700 [INFO]:		Start craw data in page 345
+2021-09-11 01:54:05 +0700 [INFO]:		Craw data page 345 success
+2021-09-11 01:54:05 +0700 [INFO]:		Start craw data in page 346
+2021-09-11 01:55:17 +0700 [INFO]:		Craw data page 346 success
+2021-09-11 01:55:17 +0700 [INFO]:		Start craw data in page 347
+2021-09-11 01:56:29 +0700 [INFO]:		Craw data page 347 success
+2021-09-11 01:56:29 +0700 [INFO]:		Start craw data in page 348
+2021-09-11 01:57:40 +0700 [INFO]:		Craw data page 348 success
+2021-09-11 01:57:40 +0700 [INFO]:		Start craw data in page 349
+2021-09-11 01:58:53 +0700 [INFO]:		Craw data page 349 success
+2021-09-11 01:58:53 +0700 [INFO]:		Start craw data in page 350
+2021-09-11 02:00:04 +0700 [INFO]:		Craw data page 350 success
+2021-09-11 02:00:04 +0700 [INFO]:		Start craw data in page 351
+2021-09-11 02:01:15 +0700 [INFO]:		Craw data page 351 success
+2021-09-11 02:01:15 +0700 [INFO]:		Start craw data in page 352
+2021-09-11 02:02:30 +0700 [INFO]:		Craw data page 352 success
+2021-09-11 02:02:30 +0700 [INFO]:		Start craw data in page 353
+2021-09-11 02:03:42 +0700 [INFO]:		Craw data page 353 success
+2021-09-11 02:03:42 +0700 [INFO]:		Start craw data in page 354
+2021-09-11 02:04:56 +0700 [INFO]:		Craw data page 354 success
+2021-09-11 02:04:56 +0700 [INFO]:		Start craw data in page 355
+2021-09-11 02:06:08 +0700 [INFO]:		Craw data page 355 success
+2021-09-11 02:06:08 +0700 [INFO]:		Start craw data in page 356
+2021-09-11 02:07:21 +0700 [INFO]:		Craw data page 356 success
+2021-09-11 02:07:21 +0700 [INFO]:		Start craw data in page 357
+2021-09-11 02:09:01 +0700 [INFO]:		Craw data page 357 success
+2021-09-11 02:09:01 +0700 [INFO]:		Start craw data in page 358
+2021-09-11 02:10:12 +0700 [INFO]:		Craw data page 358 success
+2021-09-11 02:10:12 +0700 [INFO]:		Start craw data in page 359
+2021-09-11 02:11:28 +0700 [INFO]:		Craw data page 359 success
+2021-09-11 02:11:28 +0700 [INFO]:		Start craw data in page 360
+2021-09-11 02:12:43 +0700 [INFO]:		Craw data page 360 success
+2021-09-11 02:12:43 +0700 [INFO]:		Start craw data in page 361
+2021-09-11 02:13:54 +0700 [INFO]:		Craw data page 361 success
+2021-09-11 02:13:54 +0700 [INFO]:		Start craw data in page 362
+2021-09-11 02:15:06 +0700 [INFO]:		Craw data page 362 success
+2021-09-11 02:15:06 +0700 [INFO]:		Start craw data in page 363
+2021-09-11 02:16:18 +0700 [INFO]:		Craw data page 363 success
+2021-09-11 02:16:18 +0700 [INFO]:		Start craw data in page 364
+2021-09-11 02:17:30 +0700 [INFO]:		Craw data page 364 success
+2021-09-11 02:17:30 +0700 [INFO]:		Start craw data in page 365
+2021-09-11 02:18:41 +0700 [INFO]:		Craw data page 365 success
+2021-09-11 02:18:41 +0700 [INFO]:		Start craw data in page 366
+2021-09-11 02:19:54 +0700 [INFO]:		Craw data page 366 success
+2021-09-11 02:19:54 +0700 [INFO]:		Start craw data in page 367
+2021-09-11 02:21:05 +0700 [INFO]:		Craw data page 367 success
+2021-09-11 02:21:05 +0700 [INFO]:		Start craw data in page 368
+2021-09-11 02:22:16 +0700 [INFO]:		Craw data page 368 success
+2021-09-11 02:22:16 +0700 [INFO]:		Start craw data in page 369
+2021-09-11 02:23:26 +0700 [INFO]:		Craw data page 369 success
+2021-09-11 02:23:26 +0700 [INFO]:		Start craw data in page 370
+2021-09-11 02:24:37 +0700 [INFO]:		Craw data page 370 success
+2021-09-11 02:24:37 +0700 [INFO]:		Start craw data in page 371
+2021-09-11 02:25:50 +0700 [INFO]:		Craw data page 371 success
+2021-09-11 02:25:50 +0700 [INFO]:		Start craw data in page 372
+2021-09-11 02:27:02 +0700 [INFO]:		Craw data page 372 success
+2021-09-11 02:27:02 +0700 [INFO]:		Start craw data in page 373
+2021-09-11 02:28:13 +0700 [INFO]:		Craw data page 373 success
+2021-09-11 02:28:13 +0700 [INFO]:		Start craw data in page 374
+2021-09-11 02:29:24 +0700 [INFO]:		Craw data page 374 success
+2021-09-11 02:29:24 +0700 [INFO]:		Start craw data in page 375
+2021-09-11 02:30:37 +0700 [INFO]:		Craw data page 375 success
+2021-09-11 02:30:37 +0700 [INFO]:		Start craw data in page 376
+2021-09-11 02:31:47 +0700 [INFO]:		Craw data page 376 success
+2021-09-11 02:31:47 +0700 [INFO]:		Start craw data in page 377
+2021-09-11 02:32:59 +0700 [INFO]:		Craw data page 377 success
+2021-09-11 02:32:59 +0700 [INFO]:		Start craw data in page 378
+2021-09-11 02:34:18 +0700 [INFO]:		Craw data page 378 success
+2021-09-11 02:34:18 +0700 [INFO]:		Start craw data in page 379
+2021-09-11 02:35:31 +0700 [INFO]:		Craw data page 379 success
+2021-09-11 02:35:31 +0700 [INFO]:		Start craw data in page 380
+2021-09-11 02:36:43 +0700 [INFO]:		Craw data page 380 success
+2021-09-11 02:36:43 +0700 [INFO]:		Start craw data in page 381
+2021-09-11 02:37:55 +0700 [INFO]:		Craw data page 381 success
+2021-09-11 02:37:55 +0700 [INFO]:		Start craw data in page 382
+2021-09-11 02:39:06 +0700 [INFO]:		Craw data page 382 success
+2021-09-11 02:39:06 +0700 [INFO]:		Start craw data in page 383
+2021-09-11 02:40:18 +0700 [INFO]:		Craw data page 383 success
+2021-09-11 02:40:18 +0700 [INFO]:		Start craw data in page 384
+2021-09-11 02:41:31 +0700 [INFO]:		Craw data page 384 success
+2021-09-11 02:41:31 +0700 [INFO]:		Start craw data in page 385
+2021-09-11 02:42:44 +0700 [INFO]:		Craw data page 385 success
+2021-09-11 02:42:44 +0700 [INFO]:		Start craw data in page 386
+2021-09-11 02:43:56 +0700 [INFO]:		Craw data page 386 success
+2021-09-11 02:43:56 +0700 [INFO]:		Start craw data in page 387
+2021-09-11 02:45:07 +0700 [INFO]:		Craw data page 387 success
+2021-09-11 02:45:07 +0700 [INFO]:		Start craw data in page 388
+2021-09-11 02:46:17 +0700 [INFO]:		Craw data page 388 success
+2021-09-11 02:46:17 +0700 [INFO]:		Start craw data in page 389
+2021-09-11 02:47:28 +0700 [INFO]:		Craw data page 389 success
+2021-09-11 02:47:28 +0700 [INFO]:		Start craw data in page 390
+2021-09-11 02:48:39 +0700 [INFO]:		Craw data page 390 success
+2021-09-11 02:48:39 +0700 [INFO]:		Start craw data in page 391
+2021-09-11 02:49:49 +0700 [INFO]:		Craw data page 391 success
+2021-09-11 02:49:49 +0700 [INFO]:		Start craw data in page 392
+2021-09-11 02:51:00 +0700 [INFO]:		Craw data page 392 success
+2021-09-11 02:51:00 +0700 [INFO]:		Start craw data in page 393
+2021-09-11 02:52:10 +0700 [INFO]:		Craw data page 393 success
+2021-09-11 02:52:10 +0700 [INFO]:		Start craw data in page 394
+2021-09-11 02:53:20 +0700 [INFO]:		Craw data page 394 success
+2021-09-11 02:53:20 +0700 [INFO]:		Start craw data in page 395
+2021-09-11 02:54:32 +0700 [INFO]:		Craw data page 395 success
+2021-09-11 02:54:32 +0700 [INFO]:		Start craw data in page 396
+2021-09-11 02:55:44 +0700 [INFO]:		Craw data page 396 success
+2021-09-11 02:55:44 +0700 [INFO]:		Start craw data in page 397
+2021-09-11 02:56:55 +0700 [INFO]:		Craw data page 397 success
+2021-09-11 02:56:55 +0700 [INFO]:		Start craw data in page 398
+2021-09-11 02:58:06 +0700 [INFO]:		Craw data page 398 success
+2021-09-11 02:58:06 +0700 [INFO]:		Start craw data in page 399
+2021-09-11 02:59:11 +0700 [INFO]:		Craw data page 399 success
+2021-09-11 02:59:11 +0700 [INFO]:		Craw data https://imitsu.jp/ct-hp-design success
