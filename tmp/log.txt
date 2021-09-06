@@ -1,0 +1,2 @@
+2021-09-23 23:27:32 +0700 [INFO]:		Init driver
+2021-09-23 23:45:59 +0700 [INFO]:		Craw data success
